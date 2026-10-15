@@ -1,0 +1,11 @@
+{
+  "title": "Rajwada Travel Agent",
+  "description": "Plan your Rajasthan trip effortlessly with personalized itineraries, local insights, and budget estimates through an engaging AI-powered conversation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

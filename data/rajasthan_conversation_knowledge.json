@@ -1,0 +1,630 @@
+[
+  {
+    "id": "jaipur-food-plan",
+    "title": "Jaipur food and heritage pacing",
+    "name": "Jaipur heritage-day meal guidance",
+    "destination": "Jaipur",
+    "category": "restaurant",
+    "cuisine": "Rajasthani, Indian, vegetarian options",
+    "dietary": "verify Jain, vegan and allergen handling",
+    "price_level": "budget to moderate",
+    "address": "Old City / market areas, Jaipur",
+    "text": "Pair heritage visits with a seated midday meal and avoid overpacking the hottest hours. When choosing street food, favour busy hygienic vendors and ask directly about ingredients and cooking oil.",
+    "source_url": "",
+    "source_type": "local curated planning data"
+  },
+  {
+    "id": "jodhpur-food-plan",
+    "title": "Jodhpur food and old-city pacing",
+    "name": "Jodhpur old-city food guidance",
+    "destination": "Jodhpur",
+    "category": "restaurant",
+    "cuisine": "Rajasthani snacks, Indian, vegetarian options",
+    "dietary": "verify special dietary preparation",
+    "price_level": "budget",
+    "address": "Clock Tower / Sardar Market area, Jodhpur",
+    "text": "Plan food around Mehrangarh and old-city walking. Keep an evening market snack stop flexible and confirm ingredients if you avoid dairy, onion, garlic or specific allergens.",
+    "source_url": "",
+    "source_type": "local curated planning data"
+  },
+  {
+    "id": "jaisalmer-food-plan",
+    "title": "Jaisalmer fort-area food guidance",
+    "name": "Jaisalmer fort-area dining guidance",
+    "destination": "Jaisalmer",
+    "category": "restaurant",
+    "cuisine": "Rajasthani, Indian, cafe",
+    "dietary": "vegetarian options; confirm special preparation",
+    "price_level": "moderate",
+    "address": "Jaisalmer Fort / old city area",
+    "text": "Keep fort-area meals flexible around walking and desert-transfer timing. For desert camps, confirm included meals and dietary requests before payment rather than assuming them.",
+    "source_url": "",
+    "source_type": "local curated planning data"
+  },
+  {
+    "id": "udaipur-food-plan",
+    "title": "Udaipur lakeside food guidance",
+    "name": "Udaipur lakeside meal guidance",
+    "destination": "Udaipur",
+    "category": "restaurant",
+    "cuisine": "Rajasthani, Indian, vegetarian options",
+    "dietary": "verify kitchen handling",
+    "price_level": "moderate to premium",
+    "address": "Old City / Lake Pichola area, Udaipur",
+    "text": "A lakeside dinner can work after a City Palace and waterfront day, but boat timing, rooftop seating and dietary preparation should be confirmed directly.",
+    "source_url": "",
+    "source_type": "local curated planning data"
+  },
+  {
+    "id": "pushkar-food-plan",
+    "title": "Pushkar dietary and temple etiquette",
+    "name": "Pushkar vegetarian cafe guidance",
+    "destination": "Pushkar",
+    "category": "restaurant",
+    "cuisine": "vegetarian, cafe, Indian",
+    "dietary": "vegetarian common; verify vegan/Jain requirements",
+    "price_level": "budget",
+    "address": "Pushkar market area",
+    "text": "Plan a walking-friendly meal near the market and allow time for temple etiquette. Confirm kitchen ingredients and service hours directly.",
+    "source_url": "",
+    "source_type": "local curated planning data"
+  },
+  {
+    "id": "faq_jaipur_trip_shape",
+    "title": "How to plan a visit to Jaipur",
+    "destination": "Jaipur",
+    "category": "travel question",
+    "text": "For a visit to Jaipur, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Amer Fort, Jaigarh Fort, Nahargarh Fort, Hawa Mahal, City Palace Jaipur, Jantar Mantar, Jal Mahal, Albert Hall Museum, Birla Mandir, Govind Dev Ji Temple. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_jaipur_access",
+    "title": "Access and practical planning in Jaipur",
+    "destination": "Jaipur",
+    "category": "accessibility and logistics",
+    "text": "Access around Jaipur depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_jodhpur_trip_shape",
+    "title": "How to plan a visit to Jodhpur",
+    "destination": "Jodhpur",
+    "category": "travel question",
+    "text": "For a visit to Jodhpur, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Mehrangarh Fort, Umaid Bhawan Palace Museum, Jaswant Thada, Mandore Gardens, Rao Jodha Desert Rock Park, Toorji Ka Jhalra, Ghanta Ghar, Sardar Market, Kaylana Lake, Balsamand Lake. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_jodhpur_access",
+    "title": "Access and practical planning in Jodhpur",
+    "destination": "Jodhpur",
+    "category": "accessibility and logistics",
+    "text": "Access around Jodhpur depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_jaisalmer_trip_shape",
+    "title": "How to plan a visit to Jaisalmer",
+    "destination": "Jaisalmer",
+    "category": "travel question",
+    "text": "For a visit to Jaisalmer, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Jaisalmer Fort, Patwon Ki Haveli, Salim Singh Ki Haveli, Nathmal Ki Haveli, Gadisar Lake, Bada Bagh, Vyas Chhatri, Kuldhara abandoned village, Khaba Fort, Amar Sagar Jain Temple. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_jaisalmer_access",
+    "title": "Access and practical planning in Jaisalmer",
+    "destination": "Jaisalmer",
+    "category": "accessibility and logistics",
+    "text": "Access around Jaisalmer depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_udaipur_trip_shape",
+    "title": "How to plan a visit to Udaipur",
+    "destination": "Udaipur",
+    "category": "travel question",
+    "text": "For a visit to Udaipur, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes City Palace Udaipur, Lake Pichola, Jag Mandir, Lake Palace exterior views, Jagdish Temple, Saheliyon Ki Bari, Fateh Sagar Lake, Sajjangarh Monsoon Palace, Sajjangarh Biological Park, Bagore Ki Haveli. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_udaipur_access",
+    "title": "Access and practical planning in Udaipur",
+    "destination": "Udaipur",
+    "category": "accessibility and logistics",
+    "text": "Access around Udaipur depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_pushkar_trip_shape",
+    "title": "How to plan a visit to Pushkar",
+    "destination": "Pushkar",
+    "category": "travel question",
+    "text": "For a visit to Pushkar, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Pushkar Lake, Brahma Temple, Savitri Mata Temple, Gayatri Temple, Varaha Temple, Rangji Temple, Apteshwar Mahadev Temple, Pap Mochani Temple, Pushkar ghats, Rose farms. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_pushkar_access",
+    "title": "Access and practical planning in Pushkar",
+    "destination": "Pushkar",
+    "category": "accessibility and logistics",
+    "text": "Access around Pushkar depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_ajmer_trip_shape",
+    "title": "How to plan a visit to Ajmer",
+    "destination": "Ajmer",
+    "category": "travel question",
+    "text": "For a visit to Ajmer, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Ajmer Sharif Dargah, Adhai Din Ka Jhonpra, Ana Sagar Lake, Daulat Bagh, Taragarh Fort Ajmer, Akbari Fort and Museum, Soniji Ki Nasiyan, Nareli Jain Temple, Foy Sagar Lake, Mayo College architecture. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_ajmer_access",
+    "title": "Access and practical planning in Ajmer",
+    "destination": "Ajmer",
+    "category": "accessibility and logistics",
+    "text": "Access around Ajmer depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_ranthambore_trip_shape",
+    "title": "How to plan a visit to Ranthambore",
+    "destination": "Ranthambore",
+    "category": "travel question",
+    "text": "For a visit to Ranthambore, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Ranthambore National Park, Ranthambore Fort, Padam Talao, Malik Talao, Raj Bagh Ruins, Jogi Mahal exterior area, Trinetra Ganesh Temple, Surwal Lake, Kachida Valley, Sawai Man Singh Sanctuary. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_ranthambore_access",
+    "title": "Access and practical planning in Ranthambore",
+    "destination": "Ranthambore",
+    "category": "accessibility and logistics",
+    "text": "Access around Ranthambore depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_bikaner_trip_shape",
+    "title": "How to plan a visit to Bikaner",
+    "destination": "Bikaner",
+    "category": "travel question",
+    "text": "For a visit to Bikaner, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Junagarh Fort, Lalgarh Palace, Laxmi Niwas Palace, Karni Mata Temple at Deshnok, National Research Centre on Camel, Rampuria Havelis, Gajner Palace, Gajner Wildlife Sanctuary, Prachina Museum, Bhandasar Jain Temple. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_bikaner_access",
+    "title": "Access and practical planning in Bikaner",
+    "destination": "Bikaner",
+    "category": "accessibility and logistics",
+    "text": "Access around Bikaner depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_mount_abu_trip_shape",
+    "title": "How to plan a visit to Mount Abu",
+    "destination": "Mount Abu",
+    "category": "travel question",
+    "text": "For a visit to Mount Abu, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Dilwara Jain Temples, Nakki Lake, Guru Shikhar, Achalgarh Fort, Achaleshwar Mahadev Temple, Toad Rock, Sunset Point, Honeymoon Point, Peace Park, Trevor's Tank. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_mount_abu_access",
+    "title": "Access and practical planning in Mount Abu",
+    "destination": "Mount Abu",
+    "category": "accessibility and logistics",
+    "text": "Access around Mount Abu depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_chittorgarh_trip_shape",
+    "title": "How to plan a visit to Chittorgarh",
+    "destination": "Chittorgarh",
+    "category": "travel question",
+    "text": "For a visit to Chittorgarh, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Chittorgarh Fort, Vijay Stambh, Kirti Stambh, Rana Kumbha Palace, Rani Padmini Palace, Gaumukh Reservoir, Meera Temple, Kalika Mata Temple, Fateh Prakash Palace Museum, Sathis Deori temples. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_chittorgarh_access",
+    "title": "Access and practical planning in Chittorgarh",
+    "destination": "Chittorgarh",
+    "category": "accessibility and logistics",
+    "text": "Access around Chittorgarh depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_kumbhalgarh_trip_shape",
+    "title": "How to plan a visit to Kumbhalgarh",
+    "destination": "Kumbhalgarh",
+    "category": "travel question",
+    "text": "For a visit to Kumbhalgarh, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Kumbhalgarh Fort, Kumbhalgarh Wildlife Sanctuary, Badal Mahal, Neelkanth Mahadev Temple, Vedi Temple, Haldighati, Maharana Pratap Museum, Rajsamand Lake, Kankroli Dwarkadhish Temple, Charbhuja Temple. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_kumbhalgarh_access",
+    "title": "Access and practical planning in Kumbhalgarh",
+    "destination": "Kumbhalgarh",
+    "category": "accessibility and logistics",
+    "text": "Access around Kumbhalgarh depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_bundi_trip_shape",
+    "title": "How to plan a visit to Bundi",
+    "destination": "Bundi",
+    "category": "travel question",
+    "text": "For a visit to Bundi, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Taragarh Fort Bundi, Bundi Palace, Chitrashala, Sukh Mahal, Raniji Ki Baori, Nawal Sagar, Jait Sagar, Dabhai Kund, Nagar Sagar Kund, 84 Pillared Cenotaph. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_bundi_access",
+    "title": "Access and practical planning in Bundi",
+    "destination": "Bundi",
+    "category": "accessibility and logistics",
+    "text": "Access around Bundi depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_alwar_trip_shape",
+    "title": "How to plan a visit to Alwar",
+    "destination": "Alwar",
+    "category": "travel question",
+    "text": "For a visit to Alwar, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Bala Quila, City Palace Alwar, Moosi Maharani Ki Chhatri, Siliserh Lake, Siliserh Lake Palace, Fateh Jung Gumbad, Vijay Mandir Palace exterior, Sariska Tiger Reserve, Pandupol Hanuman Temple, Neelkanth temples. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_alwar_access",
+    "title": "Access and practical planning in Alwar",
+    "destination": "Alwar",
+    "category": "accessibility and logistics",
+    "text": "Access around Alwar depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_bharatpur_trip_shape",
+    "title": "How to plan a visit to Bharatpur",
+    "destination": "Bharatpur",
+    "category": "travel question",
+    "text": "For a visit to Bharatpur, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Keoladeo National Park, Lohagarh Fort, Bharatpur Government Museum, Deeg Palace, Deeg water gardens and fountains, Ganga Mandir, Laxman Mandir, Band Baretha, Bayana Fort, Fatehpur Sikri excursion across the state border. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_bharatpur_access",
+    "title": "Access and practical planning in Bharatpur",
+    "destination": "Bharatpur",
+    "category": "accessibility and logistics",
+    "text": "Access around Bharatpur depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_shekhawati_trip_shape",
+    "title": "How to plan a visit to Shekhawati",
+    "destination": "Shekhawati",
+    "category": "travel question",
+    "text": "For a visit to Shekhawati, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Mandawa Fort, Mandawa Havelis, Nawalgarh, Morarka Haveli, Podar Haveli Museum, Dundlod Fort, Jhunjhunu Rani Sati Temple, Fatehpur Shekhawati, Nadine Le Prince Cultural Centre, Ramgarh Shekhawati. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_shekhawati_access",
+    "title": "Access and practical planning in Shekhawati",
+    "destination": "Shekhawati",
+    "category": "accessibility and logistics",
+    "text": "Access around Shekhawati depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_ranakpur_trip_shape",
+    "title": "How to plan a visit to Ranakpur",
+    "destination": "Ranakpur",
+    "category": "travel question",
+    "text": "For a visit to Ranakpur, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Ranakpur Jain Temple, Jawai Leopard Conservation Reserve, Jawai Bandh, Kumbhalgarh approach villages, Om Banna Temple, Bangur Museum Pali, Parshuram Mahadev, Nimbo Ka Nath, Jadan Ashram, Falna. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_ranakpur_access",
+    "title": "Access and practical planning in Ranakpur",
+    "destination": "Ranakpur",
+    "category": "accessibility and logistics",
+    "text": "Access around Ranakpur depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_barmer_trip_shape",
+    "title": "How to plan a visit to Barmer",
+    "destination": "Barmer",
+    "category": "travel question",
+    "text": "For a visit to Barmer, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Barmer Fort, Kiradu Temples, Nakoda Jain Temple, Devka Sun Temple ruins, Mahabar Sand Dunes, Barmer embroidery villages, Balotra textile areas, Thar Desert landscapes, Pachpadra Salt Lake, Siwana Fort. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_barmer_access",
+    "title": "Access and practical planning in Barmer",
+    "destination": "Barmer",
+    "category": "accessibility and logistics",
+    "text": "Access around Barmer depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_nagaur_trip_shape",
+    "title": "How to plan a visit to Nagaur",
+    "destination": "Nagaur",
+    "category": "travel question",
+    "text": "For a visit to Nagaur, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Nagaur Fort, Ahhichatragarh Fort, Tarkeen Dargah, Ladnun Jain Vishva Bharati, Khimsar Fort, Khimsar Sand Dunes, Kuchaman Fort, Kuchaman Lake, Didwana Salt Lake, Makrana marble quarries. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_nagaur_access",
+    "title": "Access and practical planning in Nagaur",
+    "destination": "Nagaur",
+    "category": "accessibility and logistics",
+    "text": "Access around Nagaur depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_kota_trip_shape",
+    "title": "How to plan a visit to Kota",
+    "destination": "Kota",
+    "category": "travel question",
+    "text": "For a visit to Kota, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Garadia Mahadev viewpoint, Chambal Garden, Seven Wonders Park, Kota Barrage, Kishore Sagar Lake, Jagmandir Kota, Rao Madho Singh Museum, Godavari Dham, Mukundara Hills Tiger Reserve, Abheda Biological Park. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_kota_access",
+    "title": "Access and practical planning in Kota",
+    "destination": "Kota",
+    "category": "accessibility and logistics",
+    "text": "Access around Kota depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_jhalawar_trip_shape",
+    "title": "How to plan a visit to Jhalawar",
+    "destination": "Jhalawar",
+    "category": "travel question",
+    "text": "For a visit to Jhalawar, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Gagron Fort, Chandrabhaga Temples, Jhalawar Government Museum, Bhawani Natyashala, Garh Palace Jhalawar, Kolvi Buddhist caves, Kakuni temples, Jhalrapatan, Sun Temple Jhalrapatan, Unhel Jain Temple. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_jhalawar_access",
+    "title": "Access and practical planning in Jhalawar",
+    "destination": "Jhalawar",
+    "category": "accessibility and logistics",
+    "text": "Access around Jhalawar depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_tonk_trip_shape",
+    "title": "How to plan a visit to Tonk",
+    "destination": "Tonk",
+    "category": "travel question",
+    "text": "For a visit to Tonk, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Sunehri Kothi, Tonk old city, Arabic and Persian Research Institute, Jama Masjid Tonk, Bisalpur Dam, Bisalpur Reservoir, Hathi Bhata, Todaraisingh temples, Kakod Fort, old havelis. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_tonk_access",
+    "title": "Access and practical planning in Tonk",
+    "destination": "Tonk",
+    "category": "accessibility and logistics",
+    "text": "Access around Tonk depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_karauli_trip_shape",
+    "title": "How to plan a visit to Karauli",
+    "destination": "Karauli",
+    "category": "travel question",
+    "text": "For a visit to Karauli, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Karauli City Palace, Madan Mohan Ji Temple, Kaila Devi Temple, Kaila Devi Wildlife Sanctuary, Timangarh Fort, Mandrayal Fort, Ramathra Fort, Shri Mahaveerji Jain Temple, Chambal ravines, local heritage villages. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_karauli_access",
+    "title": "Access and practical planning in Karauli",
+    "destination": "Karauli",
+    "category": "accessibility and logistics",
+    "text": "Access around Karauli depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_dungarpur_trip_shape",
+    "title": "How to plan a visit to Dungarpur",
+    "destination": "Dungarpur",
+    "category": "travel question",
+    "text": "For a visit to Dungarpur, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Udai Bilas Palace, Juna Mahal, Gaib Sagar Lake, Beneshwar Dham, Deo Somnath Temple, Bhuvaneshwar Temple, Badal Mahal Dungarpur, Mahi Dam, Mahi Bajaj Sagar, Anand Sagar Lake. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_dungarpur_access",
+    "title": "Access and practical planning in Dungarpur",
+    "destination": "Dungarpur",
+    "category": "accessibility and logistics",
+    "text": "Access around Dungarpur depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_jalore_trip_shape",
+    "title": "How to plan a visit to Jalore",
+    "destination": "Jalore",
+    "category": "travel question",
+    "text": "For a visit to Jalore, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Jalore Fort, Sundha Mata Temple, Bhinmal heritage area, Topekhana, Sayla landscapes, Jaswantpura hills, Sirohi heritage town, Mirpur Jain Temple, Vasantgarh archaeological site, Mount Abu approach routes. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_jalore_access",
+    "title": "Access and practical planning in Jalore",
+    "destination": "Jalore",
+    "category": "accessibility and logistics",
+    "text": "Access around Jalore depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_hanumangarh_trip_shape",
+    "title": "How to plan a visit to Hanumangarh",
+    "destination": "Hanumangarh",
+    "category": "travel question",
+    "text": "For a visit to Hanumangarh, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Bhatner Fort, Kalibangan Archaeological Museum, Kalibangan Harappan site, Gogamedi Temple, Talwara Lake, Anupgarh Fort, Hindumalkot border area, Laila-Majnu tomb at Binjaur, Suratgarh heritage sites, rural canal landscapes. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_hanumangarh_access",
+    "title": "Access and practical planning in Hanumangarh",
+    "destination": "Hanumangarh",
+    "category": "accessibility and logistics",
+    "text": "Access around Hanumangarh depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_dausa_trip_shape",
+    "title": "How to plan a visit to Dausa",
+    "destination": "Dausa",
+    "category": "travel question",
+    "text": "For a visit to Dausa, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Chand Baori at Abhaneri, Harshat Mata Temple, Mehandipur Balaji Temple, Bhandarej, Bhandarej Baori, Jhajhirampura, Bandikui heritage areas, Dausa fort remains, rural stepwells and temple complexes. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_dausa_access",
+    "title": "Access and practical planning in Dausa",
+    "destination": "Dausa",
+    "category": "accessibility and logistics",
+    "text": "Access around Dausa depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_dholpur_trip_shape",
+    "title": "How to plan a visit to Dholpur",
+    "destination": "Dholpur",
+    "category": "travel question",
+    "text": "For a visit to Dholpur, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Machkund, Dholpur Palace, Shergarh Fort, Talab-e-Shahi, Van Vihar Wildlife Sanctuary, Chambal National Chambal Sanctuary access points, Ramsagar Sanctuary, ravine landscapes, Machkund temples. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_dholpur_access",
+    "title": "Access and practical planning in Dholpur",
+    "destination": "Dholpur",
+    "category": "accessibility and logistics",
+    "text": "Access around Dholpur depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_baran_trip_shape",
+    "title": "How to plan a visit to Baran",
+    "destination": "Baran",
+    "category": "travel question",
+    "text": "For a visit to Baran, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Shergarh Fort, Shahabad Fort, Kakoni temples, Sitabari, Kapildhara, Ramgarh crater region, Shergarh Wildlife Sanctuary, Shahabad forests, Bilasgarh archaeological ruins, local tribal villages. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_baran_access",
+    "title": "Access and practical planning in Baran",
+    "destination": "Baran",
+    "category": "accessibility and logistics",
+    "text": "Access around Baran depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_bhilwara_and_shahpura_trip_shape",
+    "title": "How to plan a visit to Bhilwara",
+    "destination": "Bhilwara",
+    "category": "travel question",
+    "text": "For a visit to Bhilwara, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Harni Mahadev Temple, Kyara Ke Balaji, Menal Waterfall, Mandalgarh Fort, Bijolia temples, Asind temples, Triveni Sangam near Menal region, Shahpura Ramdwara, rural textile heritage and traditional craft centres. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_bhilwara_and_shahpura_access",
+    "title": "Access and practical planning in Bhilwara",
+    "destination": "Bhilwara",
+    "category": "accessibility and logistics",
+    "text": "Access around Bhilwara depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_other_destinations_and_offbeat_places_trip_shape",
+    "title": "How to plan a visit to Rajasthan",
+    "destination": "Rajasthan",
+    "category": "travel question",
+    "text": "For a visit to Rajasthan, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Sambhar Salt Lake, Tal Chhapar Blackbuck Sanctuary, Sorsan Grasslands, Desert National Park, Gajner Wildlife Sanctuary, Bassi Wildlife Sanctuary, Sitamata Wildlife Sanctuary, Todgarh-Raoli Wildlife Sanctuary, Shergarh Sanctuary, Van Vihar Sanctuary. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_other_destinations_and_offbeat_places_access",
+    "title": "Access and practical planning in Rajasthan",
+    "destination": "Rajasthan",
+    "category": "accessibility and logistics",
+    "text": "Access around Rajasthan depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_major_temples_and_pilgrimage_destinations_trip_shape",
+    "title": "How to plan a visit to Rajasthan",
+    "destination": "Rajasthan",
+    "category": "travel question",
+    "text": "For a visit to Rajasthan, first choose the main theme—heritage, temples, nature, food or a slower cultural stay—then cluster nearby stops. The local index includes Brahma Temple Pushkar, Ajmer Sharif Dargah, Nathdwara Shrinathji Temple, Eklingji Temple, Ranakpur Jain Temple, Dilwara Jain Temples, Karni Mata Temple Deshnok, Kaila Devi Temple, Mehandipur Balaji, Salasar Balaji. Keep one flexible block for heat, traffic, rest and unexpected closures; verify current entry conditions and transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "faq_major_temples_and_pilgrimage_destinations_access",
+    "title": "Access and practical planning in Rajasthan",
+    "destination": "Rajasthan",
+    "category": "accessibility and logistics",
+    "text": "Access around Rajasthan depends on the individual site. Forts, stepwells, old-city lanes and viewpoints may involve stairs, uneven paving, slopes or limited shade. Ask the venue about step-free access, drop-off points, seating, toilets and assistance; build a slower alternative into the day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "id": "diet",
+    "title": "Dietary guidance",
+    "destination": "Rajasthan",
+    "category": "food",
+    "text": "Vegetarian food is widely available, but Jain, vegan and allergy-safe preparation must be confirmed directly with each venue. Ask about ghee, dairy, onion, garlic and cross-contact; never assume a dish is suitable.",
+    "source_url": "",
+    "source_type": "curated dietary guidance"
+  },
+  {
+    "id": "diet_jaipur_checks",
+    "title": "Dietary and allergy checks for Jaipur",
+    "destination": "Jaipur",
+    "category": "food safety",
+    "text": "In Jaipur, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_jodhpur_checks",
+    "title": "Dietary and allergy checks for Jodhpur",
+    "destination": "Jodhpur",
+    "category": "food safety",
+    "text": "In Jodhpur, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_jaisalmer_checks",
+    "title": "Dietary and allergy checks for Jaisalmer",
+    "destination": "Jaisalmer",
+    "category": "food safety",
+    "text": "In Jaisalmer, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_udaipur_checks",
+    "title": "Dietary and allergy checks for Udaipur",
+    "destination": "Udaipur",
+    "category": "food safety",
+    "text": "In Udaipur, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_pushkar_checks",
+    "title": "Dietary and allergy checks for Pushkar",
+    "destination": "Pushkar",
+    "category": "food safety",
+    "text": "In Pushkar, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_ajmer_checks",
+    "title": "Dietary and allergy checks for Ajmer",
+    "destination": "Ajmer",
+    "category": "food safety",
+    "text": "In Ajmer, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_ranthambore_checks",
+    "title": "Dietary and allergy checks for Ranthambore",
+    "destination": "Ranthambore",
+    "category": "food safety",
+    "text": "In Ranthambore, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_bikaner_checks",
+    "title": "Dietary and allergy checks for Bikaner",
+    "destination": "Bikaner",
+    "category": "food safety",
+    "text": "In Bikaner, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_mount_abu_checks",
+    "title": "Dietary and allergy checks for Mount Abu",
+    "destination": "Mount Abu",
+    "category": "food safety",
+    "text": "In Mount Abu, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_chittorgarh_checks",
+    "title": "Dietary and allergy checks for Chittorgarh",
+    "destination": "Chittorgarh",
+    "category": "food safety",
+    "text": "In Chittorgarh, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_kumbhalgarh_checks",
+    "title": "Dietary and allergy checks for Kumbhalgarh",
+    "destination": "Kumbhalgarh",
+    "category": "food safety",
+    "text": "In Kumbhalgarh, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_bundi_checks",
+    "title": "Dietary and allergy checks for Bundi",
+    "destination": "Bundi",
+    "category": "food safety",
+    "text": "In Bundi, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_alwar_checks",
+    "title": "Dietary and allergy checks for Alwar",
+    "destination": "Alwar",
+    "category": "food safety",
+    "text": "In Alwar, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_bharatpur_checks",
+    "title": "Dietary and allergy checks for Bharatpur",
+    "destination": "Bharatpur",
+    "category": "food safety",
+    "text": "In Bharatpur, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_shekhawati_checks",
+    "title": "Dietary and allergy checks for Shekhawati",
+    "destination": "Shekhawati",
+    "category": "food safety",
+    "text": "In Shekhawati, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_ranakpur_checks",
+    "title": "Dietary and allergy checks for Ranakpur",
+    "destination": "Ranakpur",
+    "category": "food safety",
+    "text": "In Ranakpur, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_barmer_checks",
+    "title": "Dietary and allergy checks for Barmer",
+    "destination": "Barmer",
+    "category": "food safety",
+    "text": "In Barmer, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_nagaur_checks",
+    "title": "Dietary and allergy checks for Nagaur",
+    "destination": "Nagaur",
+    "category": "food safety",
+    "text": "In Nagaur, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_kota_checks",
+    "title": "Dietary and allergy checks for Kota",
+    "destination": "Kota",
+    "category": "food safety",
+    "text": "In Kota, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_jhalawar_checks",
+    "title": "Dietary and allergy checks for Jhalawar",
+    "destination": "Jhalawar",
+    "category": "food safety",
+    "text": "In Jhalawar, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_tonk_checks",
+    "title": "Dietary and allergy checks for Tonk",
+    "destination": "Tonk",
+    "category": "food safety",
+    "text": "In Tonk, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_karauli_checks",
+    "title": "Dietary and allergy checks for Karauli",
+    "destination": "Karauli",
+    "category": "food safety",
+    "text": "In Karauli, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_dungarpur_checks",
+    "title": "Dietary and allergy checks for Dungarpur",
+    "destination": "Dungarpur",
+    "category": "food safety",
+    "text": "In Dungarpur, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_jalore_checks",
+    "title": "Dietary and allergy checks for Jalore",
+    "destination": "Jalore",
+    "category": "food safety",
+    "text": "In Jalore, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_hanumangarh_checks",
+    "title": "Dietary and allergy checks for Hanumangarh",
+    "destination": "Hanumangarh",
+    "category": "food safety",
+    "text": "In Hanumangarh, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_dausa_checks",
+    "title": "Dietary and allergy checks for Dausa",
+    "destination": "Dausa",
+    "category": "food safety",
+    "text": "In Dausa, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_dholpur_checks",
+    "title": "Dietary and allergy checks for Dholpur",
+    "destination": "Dholpur",
+    "category": "food safety",
+    "text": "In Dholpur, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_baran_checks",
+    "title": "Dietary and allergy checks for Baran",
+    "destination": "Baran",
+    "category": "food safety",
+    "text": "In Baran, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_bhilwara_and_shahpura_checks",
+    "title": "Dietary and allergy checks for Bhilwara",
+    "destination": "Bhilwara",
+    "category": "food safety",
+    "text": "In Bhilwara, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_other_destinations_and_offbeat_places_checks",
+    "title": "Dietary and allergy checks for Rajasthan",
+    "destination": "Rajasthan",
+    "category": "food safety",
+    "text": "In Rajasthan, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_major_temples_and_pilgrimage_destinations_checks",
+    "title": "Dietary and allergy checks for Rajasthan",
+    "destination": "Rajasthan",
+    "category": "food safety",
+    "text": "In Rajasthan, communicate dietary requirements directly and specifically: ingredients to avoid, acceptable cooking fat, onion/garlic rules, allergy severity and cross-contact. Ask how food is prepared and whether separate utensils are used. Carry translated allergy information when useful; never rely on a generic “vegetarian”, “Jain” or “vegan” label as a safety guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "dish_dal_baati_churma",
+    "title": "Dal baati churma: ingredients and dietary questions",
+    "destination": "Rajasthan",
+    "category": "regional food",
+    "text": "Dal baati churma is a combination commonly described as lentils, baked wheat dumplings and a sweet crumb preparation; recipes may use ghee. Recipes are not standardized. Ask the specific venue about ingredients, cooking fat, dairy, gluten, nuts, onion/garlic, chilli and cross-contact; never infer allergy safety from the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "dish_gatte_ki_sabzi",
+    "title": "Gatte ki sabzi: ingredients and dietary questions",
+    "destination": "Rajasthan",
+    "category": "regional food",
+    "text": "Gatte ki sabzi is gram-flour dumplings in a spiced gravy; ingredients and dairy use vary by cook. Recipes are not standardized. Ask the specific venue about ingredients, cooking fat, dairy, gluten, nuts, onion/garlic, chilli and cross-contact; never infer allergy safety from the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "dish_ker_sangri",
+    "title": "Ker sangri: ingredients and dietary questions",
+    "destination": "Rajasthan",
+    "category": "regional food",
+    "text": "Ker sangri is a desert-region preparation of ker berries and sangri beans, often seasoned with oil and spices. Recipes are not standardized. Ask the specific venue about ingredients, cooking fat, dairy, gluten, nuts, onion/garlic, chilli and cross-contact; never infer allergy safety from the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "dish_bajra_roti",
+    "title": "Bajra roti: ingredients and dietary questions",
+    "destination": "Rajasthan",
+    "category": "regional food",
+    "text": "Bajra roti is a millet flatbread, sometimes served with ghee or accompaniments that vary by venue. Recipes are not standardized. Ask the specific venue about ingredients, cooking fat, dairy, gluten, nuts, onion/garlic, chilli and cross-contact; never infer allergy safety from the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "dish_laal_maas",
+    "title": "Laal maas: ingredients and dietary questions",
+    "destination": "Rajasthan",
+    "category": "regional food",
+    "text": "Laal maas is a regional meat curry traditionally associated with chilli; heat level and recipe vary. Recipes are not standardized. Ask the specific venue about ingredients, cooking fat, dairy, gluten, nuts, onion/garlic, chilli and cross-contact; never infer allergy safety from the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "dish_ghevar",
+    "title": "Ghevar: ingredients and dietary questions",
+    "destination": "Rajasthan",
+    "category": "regional food",
+    "text": "Ghevar is a honeycomb-textured sweet with variants that may include dairy-based toppings. Recipes are not standardized. Ask the specific venue about ingredients, cooking fat, dairy, gluten, nuts, onion/garlic, chilli and cross-contact; never infer allergy safety from the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "dish_pyaaz_kachori",
+    "title": "Pyaaz kachori: ingredients and dietary questions",
+    "destination": "Rajasthan",
+    "category": "regional food",
+    "text": "Pyaaz kachori is a fried pastry with onion filling; ask about cooking oil and preparation. Recipes are not standardized. Ask the specific venue about ingredients, cooking fat, dairy, gluten, nuts, onion/garlic, chilli and cross-contact; never infer allergy safety from the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "dish_mawa_kachori",
+    "title": "Mawa kachori: ingredients and dietary questions",
+    "destination": "Rajasthan",
+    "category": "regional food",
+    "text": "Mawa kachori is a sweet filled pastry; ask about dairy, nuts and cross-contact. Recipes are not standardized. Ask the specific venue about ingredients, cooking fat, dairy, gluten, nuts, onion/garlic, chilli and cross-contact; never infer allergy safety from the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "dish_mirchi_vada",
+    "title": "Mirchi vada: ingredients and dietary questions",
+    "destination": "Rajasthan",
+    "category": "regional food",
+    "text": "Mirchi vada is a chilli fritter; spice level and shared-fryer cross-contact can vary. Recipes are not standardized. Ask the specific venue about ingredients, cooking fat, dairy, gluten, nuts, onion/garlic, chilli and cross-contact; never infer allergy safety from the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "dish_mohan_thal",
+    "title": "Mohan thal: ingredients and dietary questions",
+    "destination": "Rajasthan",
+    "category": "regional food",
+    "text": "Mohan thal is a gram-flour sweet; recipes may contain ghee, dairy and nuts. Recipes are not standardized. Ask the specific venue about ingredients, cooking fat, dairy, gluten, nuts, onion/garlic, chilli and cross-contact; never infer allergy safety from the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "dish_safed_maas",
+    "title": "Safed maas: ingredients and dietary questions",
+    "destination": "Rajasthan",
+    "category": "regional food",
+    "text": "Safed maas is a creamy-style regional meat dish; confirm dairy ingredients and preparation. Recipes are not standardized. Ask the specific venue about ingredients, cooking fat, dairy, gluten, nuts, onion/garlic, chilli and cross-contact; never infer allergy safety from the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "dish_bajra_khichdi",
+    "title": "Bajra khichdi: ingredients and dietary questions",
+    "destination": "Rajasthan",
+    "category": "regional food",
+    "text": "Bajra khichdi is a millet-based comfort dish with recipes varying by household. Recipes are not standardized. Ask the specific venue about ingredients, cooking fat, dairy, gluten, nuts, onion/garlic, chilli and cross-contact; never infer allergy safety from the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_jain",
+    "title": "Jain meal requests",
+    "destination": "Rajasthan",
+    "category": "Jain dietary guidance",
+    "text": "Explain the exact Jain requirements for your group: onion/garlic avoidance, root vegetables, meal timing and separate preparation may differ by practice. Confirm ingredients and cross-contact with the kitchen; “Jain available” is not a guarantee until the venue confirms.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_vegan",
+    "title": "Vegan food checks",
+    "destination": "Rajasthan",
+    "category": "vegan dietary guidance",
+    "text": "Ask specifically about ghee, butter, milk, curd, paneer, cream, honey and dairy-based sweets; clarify cooking oil and shared utensils. Regional dishes can be adapted, but preparation varies. Confirm with the person cooking.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_allergy",
+    "title": "Food allergy communication",
+    "destination": "Rajasthan",
+    "category": "allergy guidance",
+    "text": "State the allergen clearly and explain reaction severity. Ask about ingredient labels, shared fryers, utensils, oil and kitchen cross-contact. If the venue cannot confidently answer, choose another option and follow your clinician’s emergency plan.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_gluten",
+    "title": "Gluten and wheat questions",
+    "destination": "Rajasthan",
+    "category": "dietary guidance",
+    "text": "Wheat is common in breads and some snacks. Ask about flour, shared surfaces, fryers and thickeners; millet-based dishes are not automatically free from cross-contact. Confirm the preparation rather than relying on the dish name.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_vegetarian",
+    "title": "Vegetarian ordering",
+    "destination": "Rajasthan",
+    "category": "dietary guidance",
+    "text": "Vegetarian options are common, but clarify whether the kitchen uses shared equipment, meat stock, gelatin or animal-derived ingredients if these matter to you. Ask about spice and dairy separately.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_water",
+    "title": "Hydration and food hygiene",
+    "destination": "Rajasthan",
+    "category": "food safety",
+    "text": "Ask for sealed or reliably filtered water where needed, prefer freshly prepared hot food when uncertain, and consider your own health sensitivities. Food safety depends on the specific venue and current handling; no static guide can certify a kitchen.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "diet_kids",
+    "title": "Children and spice",
+    "destination": "Rajasthan",
+    "category": "family food guidance",
+    "text": "Ask for mild preparation explicitly and check for whole spices, chilli, nuts and bones. Confirm portion and ingredient details with the kitchen; “not spicy” can mean different things.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  }
+]

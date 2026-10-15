@@ -1,0 +1,74 @@
+[
+  {
+    "id": "wildlife",
+    "title": "Wildlife ethics",
+    "destination": "Ranthambore",
+    "category": "wildlife",
+    "text": "A safari is wildlife observation, not a guaranteed tiger experience. Keep schedules flexible, follow guide instructions and use official booking information for permits, zones and timings.",
+    "source_url": "https://forest.rajasthan.gov.in/",
+    "source_type": "official forest reference"
+  },
+  {
+    "id": "wildlife_note_ranthambore_safari_booking_and_timing",
+    "title": "Safari booking and timing",
+    "destination": "Ranthambore",
+    "category": "wildlife planning",
+    "text": "Ranthambore safaris require current official permit/slot information. Verify date, reporting point, zone allocation, vehicle type, identity documents and cancellation conditions through the authorized booking process. Arrive with the required buffer and follow forest staff instructions; sightings are never guaranteed.",
+    "source_url": "",
+    "source_type": "official-source check required"
+  },
+  {
+    "id": "wildlife_note_bharatpur_keoladeo_birding_preparation",
+    "title": "Keoladeo birding preparation",
+    "destination": "Bharatpur",
+    "category": "wildlife planning",
+    "text": "At Keoladeo, plan for walking or locally permitted transport, seasonal water conditions and quiet wildlife observation. Carry binoculars if useful, protect against sun/rain, stay on permitted trails and do not feed birds. Species presence changes; use current park information.",
+    "source_url": "",
+    "source_type": "official-source check required"
+  },
+  {
+    "id": "wildlife_note_sariska_sariska_wildlife_planning",
+    "title": "Sariska wildlife planning",
+    "destination": "Sariska",
+    "category": "wildlife planning",
+    "text": "Sariska access, safari availability, zones and reporting arrangements are controlled and can change. Check official forest sources before travel; allow schedule buffer and do not promise a tiger or other sighting.",
+    "source_url": "",
+    "source_type": "official-source check required"
+  },
+  {
+    "id": "wildlife_note_jawai_jawai_leopard_viewing_ethics",
+    "title": "Jawai leopard-viewing ethics",
+    "destination": "Jawai",
+    "category": "wildlife planning",
+    "text": "Jawai leopard experiences operate in a lived-in landscape. Use locally accountable operators, respect private land and residents, keep distance and avoid spotlighting or crowding animals. A leopard sighting is not guaranteed; confirm operator credentials and current access.",
+    "source_url": "",
+    "source_type": "official-source check required"
+  },
+  {
+    "id": "wildlife_note_desert_national_park_desert_habitat_protection",
+    "title": "Desert habitat protection",
+    "destination": "Desert National Park",
+    "category": "wildlife planning",
+    "text": "Desert National Park and surrounding landscapes are sensitive habitat. Use permitted routes and authorized guides, avoid off-road driving, litter and disturbance, and check seasonal access and protection rules. Wildlife sightings vary naturally.",
+    "source_url": "",
+    "source_type": "official-source check required"
+  },
+  {
+    "id": "wildlife_note_mount_abu_hill_and_forest_access",
+    "title": "Hill and forest access",
+    "destination": "Mount Abu",
+    "category": "wildlife planning",
+    "text": "Mount Abu’s hill roads, trails and protected areas can be affected by rain, visibility and local restrictions. Check current access and weather, wear appropriate footwear and stay on authorized paths.",
+    "source_url": "",
+    "source_type": "official-source check required"
+  },
+  {
+    "id": "wildlife_note_rajasthan_wildlife_seasonality",
+    "title": "Wildlife seasonality",
+    "destination": "Rajasthan",
+    "category": "wildlife planning",
+    "text": "Wildlife activity depends on species, habitat, water, weather, season and management rules. Park opening periods and safari access vary by reserve. Check each official forest authority’s current guidance and treat sightings as uncertain.",
+    "source_url": "",
+    "source_type": "official-source check required"
+  }
+]

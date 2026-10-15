@@ -1,0 +1,362 @@
+[
+  {
+    "id": "budget",
+    "title": "Budget model",
+    "destination": "Rajasthan",
+    "category": "budget",
+    "text": "Use transparent estimated ranges for accommodation, meals, local travel and activities. Costs vary by season, group size, booking date and service level; estimates are not quotes.",
+    "source_url": "",
+    "source_type": "planning guidance"
+  },
+  {
+    "id": "budget_jaipur_choices",
+    "title": "Budget choices for Jaipur",
+    "destination": "Jaipur",
+    "category": "budget planning",
+    "text": "For Jaipur, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_jodhpur_choices",
+    "title": "Budget choices for Jodhpur",
+    "destination": "Jodhpur",
+    "category": "budget planning",
+    "text": "For Jodhpur, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_jaisalmer_choices",
+    "title": "Budget choices for Jaisalmer",
+    "destination": "Jaisalmer",
+    "category": "budget planning",
+    "text": "For Jaisalmer, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_udaipur_choices",
+    "title": "Budget choices for Udaipur",
+    "destination": "Udaipur",
+    "category": "budget planning",
+    "text": "For Udaipur, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_pushkar_choices",
+    "title": "Budget choices for Pushkar",
+    "destination": "Pushkar",
+    "category": "budget planning",
+    "text": "For Pushkar, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_ajmer_choices",
+    "title": "Budget choices for Ajmer",
+    "destination": "Ajmer",
+    "category": "budget planning",
+    "text": "For Ajmer, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_ranthambore_choices",
+    "title": "Budget choices for Ranthambore",
+    "destination": "Ranthambore",
+    "category": "budget planning",
+    "text": "For Ranthambore, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_bikaner_choices",
+    "title": "Budget choices for Bikaner",
+    "destination": "Bikaner",
+    "category": "budget planning",
+    "text": "For Bikaner, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_mount_abu_choices",
+    "title": "Budget choices for Mount Abu",
+    "destination": "Mount Abu",
+    "category": "budget planning",
+    "text": "For Mount Abu, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_chittorgarh_choices",
+    "title": "Budget choices for Chittorgarh",
+    "destination": "Chittorgarh",
+    "category": "budget planning",
+    "text": "For Chittorgarh, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_kumbhalgarh_choices",
+    "title": "Budget choices for Kumbhalgarh",
+    "destination": "Kumbhalgarh",
+    "category": "budget planning",
+    "text": "For Kumbhalgarh, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_bundi_choices",
+    "title": "Budget choices for Bundi",
+    "destination": "Bundi",
+    "category": "budget planning",
+    "text": "For Bundi, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_alwar_choices",
+    "title": "Budget choices for Alwar",
+    "destination": "Alwar",
+    "category": "budget planning",
+    "text": "For Alwar, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_bharatpur_choices",
+    "title": "Budget choices for Bharatpur",
+    "destination": "Bharatpur",
+    "category": "budget planning",
+    "text": "For Bharatpur, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_shekhawati_choices",
+    "title": "Budget choices for Shekhawati",
+    "destination": "Shekhawati",
+    "category": "budget planning",
+    "text": "For Shekhawati, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_ranakpur_choices",
+    "title": "Budget choices for Ranakpur",
+    "destination": "Ranakpur",
+    "category": "budget planning",
+    "text": "For Ranakpur, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_barmer_choices",
+    "title": "Budget choices for Barmer",
+    "destination": "Barmer",
+    "category": "budget planning",
+    "text": "For Barmer, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_nagaur_choices",
+    "title": "Budget choices for Nagaur",
+    "destination": "Nagaur",
+    "category": "budget planning",
+    "text": "For Nagaur, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_kota_choices",
+    "title": "Budget choices for Kota",
+    "destination": "Kota",
+    "category": "budget planning",
+    "text": "For Kota, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_jhalawar_choices",
+    "title": "Budget choices for Jhalawar",
+    "destination": "Jhalawar",
+    "category": "budget planning",
+    "text": "For Jhalawar, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_tonk_choices",
+    "title": "Budget choices for Tonk",
+    "destination": "Tonk",
+    "category": "budget planning",
+    "text": "For Tonk, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_karauli_choices",
+    "title": "Budget choices for Karauli",
+    "destination": "Karauli",
+    "category": "budget planning",
+    "text": "For Karauli, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_dungarpur_choices",
+    "title": "Budget choices for Dungarpur",
+    "destination": "Dungarpur",
+    "category": "budget planning",
+    "text": "For Dungarpur, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_jalore_choices",
+    "title": "Budget choices for Jalore",
+    "destination": "Jalore",
+    "category": "budget planning",
+    "text": "For Jalore, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_hanumangarh_choices",
+    "title": "Budget choices for Hanumangarh",
+    "destination": "Hanumangarh",
+    "category": "budget planning",
+    "text": "For Hanumangarh, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_dausa_choices",
+    "title": "Budget choices for Dausa",
+    "destination": "Dausa",
+    "category": "budget planning",
+    "text": "For Dausa, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_dholpur_choices",
+    "title": "Budget choices for Dholpur",
+    "destination": "Dholpur",
+    "category": "budget planning",
+    "text": "For Dholpur, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_baran_choices",
+    "title": "Budget choices for Baran",
+    "destination": "Baran",
+    "category": "budget planning",
+    "text": "For Baran, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_bhilwara_and_shahpura_choices",
+    "title": "Budget choices for Bhilwara",
+    "destination": "Bhilwara",
+    "category": "budget planning",
+    "text": "For Bhilwara, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_other_destinations_and_offbeat_places_choices",
+    "title": "Budget choices for Rajasthan",
+    "destination": "Rajasthan",
+    "category": "budget planning",
+    "text": "For Rajasthan, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_major_temples_and_pilgrimage_destinations_choices",
+    "title": "Budget choices for Rajasthan",
+    "destination": "Rajasthan",
+    "category": "budget planning",
+    "text": "For Rajasthan, compare the full trip cost rather than room price alone: transport to attractions, parking, guide fees, meals, water, entry, taxes and any operator inclusions. Free or low-cost public heritage areas may sit beside paid sites. Prices change; get current written quotes and confirm what each ticket or package includes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_costs",
+    "title": "Budget categories and total trip cost",
+    "destination": "Rajasthan",
+    "category": "budget",
+    "text": "Build a per-person and group budget separately. Include lodging, intercity travel, local transfers, food, entry, guide/operator fees, taxes, tips, water, shopping and contingency. State what is an estimate and obtain current quotes; do not treat sample prices as live.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_transport",
+    "title": "Transport trade-offs",
+    "destination": "Rajasthan",
+    "category": "transport budget",
+    "text": "Compare rail, state bus, private car and flights by total cost, door-to-door time, luggage, comfort and schedule flexibility. A low ticket price may exclude transfers or waiting time. Verify availability, class, fare and cancellation terms for the travel date.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_stays",
+    "title": "Accommodation cost comparison",
+    "destination": "Rajasthan",
+    "category": "accommodation budget",
+    "text": "Compare total stay cost including taxes, meals, transfers, cancellation, extra beds and parking. Budget stays can be farther from attractions; include last-mile transport before comparing with a central property.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_activities",
+    "title": "Activity and guide fees",
+    "destination": "Rajasthan",
+    "category": "activity budget",
+    "text": "At monuments and activities, check current entry, camera, guide, parking and special-event charges with the official venue/operator. Confirm whether a package includes transport, meals, equipment and taxes, and get the inclusions in writing.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_safari",
+    "title": "Safari budget and permits",
+    "destination": "Rajasthan",
+    "category": "wildlife budget",
+    "text": "Wildlife permit costs, vehicle type, zones and booking rules depend on the reserve and date. Use official booking channels and distinguish permit cost from transport, guide, stay and meals. Never pay based on a promise of a particular animal sighting.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_desert",
+    "title": "Desert experience packages",
+    "destination": "Jaisalmer",
+    "category": "activity budget",
+    "text": "Compare desert packages by exact camp location, transfer, tent/bathroom type, meals, performance, animal activity and cancellation. Confirm taxes and whether the return journey is included. Package labels alone do not reveal quality or ethical standards.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_free",
+    "title": "Low-cost sightseeing choices",
+    "destination": "Rajasthan",
+    "category": "budget",
+    "text": "Balance paid monuments with public heritage streets, markets, lakeside walks and gardens where access is permitted. Verify whether a site is free, ticketed or restricted on the day; do not assume access from a map listing.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "budget_contingency",
+    "title": "Travel contingency fund",
+    "destination": "Rajasthan",
+    "category": "budget",
+    "text": "Keep a contingency for delays, weather changes, local transfers and booking changes. The right amount depends on party size, itinerary and risk tolerance; separate emergency funds from planned spending.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  }
+]

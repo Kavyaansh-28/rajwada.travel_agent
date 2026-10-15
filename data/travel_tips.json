@@ -1,0 +1,515 @@
+[
+  {
+    "id": "heat",
+    "title": "Heat and pacing",
+    "destination": "Rajasthan",
+    "category": "tips",
+    "text": "Rajasthan sightseeing is often more comfortable early morning and after late afternoon in warm weather. Build water, shade and rest breaks into outdoor days; do not overpack fort visits.",
+    "source_url": "",
+    "source_type": "curated travel guidance"
+  },
+  {
+    "id": "safety",
+    "title": "Practical travel advice",
+    "destination": "Rajasthan",
+    "category": "tips",
+    "text": "Use licensed or well-reviewed transport providers, keep arrival evenings flexible, and verify time-sensitive opening hours, tickets, safaris and local restrictions with official sources.",
+    "source_url": "",
+    "source_type": "curated travel guidance"
+  },
+  {
+    "id": "tip_jaipur_dayplan",
+    "title": "Day-planning and pacing in Jaipur",
+    "destination": "Jaipur",
+    "category": "itinerary pacing",
+    "text": "Plan Jaipur by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_jodhpur_dayplan",
+    "title": "Day-planning and pacing in Jodhpur",
+    "destination": "Jodhpur",
+    "category": "itinerary pacing",
+    "text": "Plan Jodhpur by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_jaisalmer_dayplan",
+    "title": "Day-planning and pacing in Jaisalmer",
+    "destination": "Jaisalmer",
+    "category": "itinerary pacing",
+    "text": "Plan Jaisalmer by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_udaipur_dayplan",
+    "title": "Day-planning and pacing in Udaipur",
+    "destination": "Udaipur",
+    "category": "itinerary pacing",
+    "text": "Plan Udaipur by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_pushkar_dayplan",
+    "title": "Day-planning and pacing in Pushkar",
+    "destination": "Pushkar",
+    "category": "itinerary pacing",
+    "text": "Plan Pushkar by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_ajmer_dayplan",
+    "title": "Day-planning and pacing in Ajmer",
+    "destination": "Ajmer",
+    "category": "itinerary pacing",
+    "text": "Plan Ajmer by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_ranthambore_dayplan",
+    "title": "Day-planning and pacing in Ranthambore",
+    "destination": "Ranthambore",
+    "category": "itinerary pacing",
+    "text": "Plan Ranthambore by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_bikaner_dayplan",
+    "title": "Day-planning and pacing in Bikaner",
+    "destination": "Bikaner",
+    "category": "itinerary pacing",
+    "text": "Plan Bikaner by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_mount_abu_dayplan",
+    "title": "Day-planning and pacing in Mount Abu",
+    "destination": "Mount Abu",
+    "category": "itinerary pacing",
+    "text": "Plan Mount Abu by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_chittorgarh_dayplan",
+    "title": "Day-planning and pacing in Chittorgarh",
+    "destination": "Chittorgarh",
+    "category": "itinerary pacing",
+    "text": "Plan Chittorgarh by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_kumbhalgarh_dayplan",
+    "title": "Day-planning and pacing in Kumbhalgarh",
+    "destination": "Kumbhalgarh",
+    "category": "itinerary pacing",
+    "text": "Plan Kumbhalgarh by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_bundi_dayplan",
+    "title": "Day-planning and pacing in Bundi",
+    "destination": "Bundi",
+    "category": "itinerary pacing",
+    "text": "Plan Bundi by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_alwar_dayplan",
+    "title": "Day-planning and pacing in Alwar",
+    "destination": "Alwar",
+    "category": "itinerary pacing",
+    "text": "Plan Alwar by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_bharatpur_dayplan",
+    "title": "Day-planning and pacing in Bharatpur",
+    "destination": "Bharatpur",
+    "category": "itinerary pacing",
+    "text": "Plan Bharatpur by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_shekhawati_dayplan",
+    "title": "Day-planning and pacing in Shekhawati",
+    "destination": "Shekhawati",
+    "category": "itinerary pacing",
+    "text": "Plan Shekhawati by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_ranakpur_dayplan",
+    "title": "Day-planning and pacing in Ranakpur",
+    "destination": "Ranakpur",
+    "category": "itinerary pacing",
+    "text": "Plan Ranakpur by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_barmer_dayplan",
+    "title": "Day-planning and pacing in Barmer",
+    "destination": "Barmer",
+    "category": "itinerary pacing",
+    "text": "Plan Barmer by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_nagaur_dayplan",
+    "title": "Day-planning and pacing in Nagaur",
+    "destination": "Nagaur",
+    "category": "itinerary pacing",
+    "text": "Plan Nagaur by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_kota_dayplan",
+    "title": "Day-planning and pacing in Kota",
+    "destination": "Kota",
+    "category": "itinerary pacing",
+    "text": "Plan Kota by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_jhalawar_dayplan",
+    "title": "Day-planning and pacing in Jhalawar",
+    "destination": "Jhalawar",
+    "category": "itinerary pacing",
+    "text": "Plan Jhalawar by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_tonk_dayplan",
+    "title": "Day-planning and pacing in Tonk",
+    "destination": "Tonk",
+    "category": "itinerary pacing",
+    "text": "Plan Tonk by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_karauli_dayplan",
+    "title": "Day-planning and pacing in Karauli",
+    "destination": "Karauli",
+    "category": "itinerary pacing",
+    "text": "Plan Karauli by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_dungarpur_dayplan",
+    "title": "Day-planning and pacing in Dungarpur",
+    "destination": "Dungarpur",
+    "category": "itinerary pacing",
+    "text": "Plan Dungarpur by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_jalore_dayplan",
+    "title": "Day-planning and pacing in Jalore",
+    "destination": "Jalore",
+    "category": "itinerary pacing",
+    "text": "Plan Jalore by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_hanumangarh_dayplan",
+    "title": "Day-planning and pacing in Hanumangarh",
+    "destination": "Hanumangarh",
+    "category": "itinerary pacing",
+    "text": "Plan Hanumangarh by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_dausa_dayplan",
+    "title": "Day-planning and pacing in Dausa",
+    "destination": "Dausa",
+    "category": "itinerary pacing",
+    "text": "Plan Dausa by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_dholpur_dayplan",
+    "title": "Day-planning and pacing in Dholpur",
+    "destination": "Dholpur",
+    "category": "itinerary pacing",
+    "text": "Plan Dholpur by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_baran_dayplan",
+    "title": "Day-planning and pacing in Baran",
+    "destination": "Baran",
+    "category": "itinerary pacing",
+    "text": "Plan Baran by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_bhilwara_and_shahpura_dayplan",
+    "title": "Day-planning and pacing in Bhilwara",
+    "destination": "Bhilwara",
+    "category": "itinerary pacing",
+    "text": "Plan Bhilwara by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_other_destinations_and_offbeat_places_dayplan",
+    "title": "Day-planning and pacing in Rajasthan",
+    "destination": "Rajasthan",
+    "category": "itinerary pacing",
+    "text": "Plan Rajasthan by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "tip_major_temples_and_pilgrimage_destinations_dayplan",
+    "title": "Day-planning and pacing in Rajasthan",
+    "destination": "Rajasthan",
+    "category": "itinerary pacing",
+    "text": "Plan Rajasthan by geographic cluster instead of crossing town repeatedly. Put exposed outdoor walks in cooler parts of the day, reserve midday for meals/rest or indoor sites, carry water, and leave transfer buffers. Forts, stepwells and old-city streets can mean stairs or uneven ground; choose fewer stops if travelling with children, older adults or mobility limits.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_route_buffers",
+    "title": "Intercity transport and transfer buffers",
+    "destination": "Rajasthan",
+    "category": "transport",
+    "text": "Rajasthan is geographically large and road conditions, traffic, weather, construction and service frequency vary. Treat intercity transfers as itinerary blocks rather than sightseeing time. Check current train/bus/flight availability with the operator, confirm stations and boarding points, and retain a backup for late arrivals.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_rail_booking",
+    "title": "Rail travel planning",
+    "destination": "Rajasthan",
+    "category": "transport",
+    "text": "For rail journeys, verify the exact station, train date, class, reservation status, boarding time and cancellation rules through the official railway booking channel. A city may have multiple stations or distant terminals. Do not assume a route, seat or fare is available from a static planner.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_road_safety",
+    "title": "Road trip planning",
+    "destination": "Rajasthan",
+    "category": "transport",
+    "text": "For road travel, confirm driver/operator identity, vehicle type, total fare inclusions, stops, luggage capacity and late-night arrangements before departure. Avoid driving while fatigued, use seatbelts and keep water and a charged phone accessible. Mountain, desert and monsoon roads need extra buffer.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_packing_desert",
+    "title": "Desert packing",
+    "destination": "Rajasthan",
+    "category": "packing",
+    "text": "For desert travel, consider sun protection, sunglasses, breathable layers, a hat, refillable water and footwear suitable for sand. Desert nights can feel cooler than daytime, depending on season. Follow operator advice and carry medicines/personal essentials; do not leave litter.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_packing_fort",
+    "title": "Fort and stepwell packing",
+    "destination": "Rajasthan",
+    "category": "packing",
+    "text": "For forts, palaces and stepwells, wear supportive shoes with grip, carry water and sun protection, and plan for uneven stone, stairs and exposed sections. Check whether large bags, tripods or photography equipment are allowed at each site.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_monsoon",
+    "title": "Monsoon contingency planning",
+    "destination": "Rajasthan",
+    "category": "seasonal travel",
+    "text": "During monsoon periods, rain can affect roads, hill routes, waterfalls, trails, lakes and outdoor sites. Check local advisories and access on the day, avoid floodwater and steep slippery steps, and keep an indoor or town-based alternative. Do not assume a waterfall or park is safe or open.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_winter",
+    "title": "Winter layering and daylight",
+    "destination": "Rajasthan",
+    "category": "seasonal travel",
+    "text": "Winter conditions vary between desert nights, hill areas and daytime cities. Carry layers, check local forecasts, and leave enough daylight for rural or fort visits. Fog or cold can affect transport; verify live departures and keep arrival plans flexible.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_summer",
+    "title": "Hot-weather itinerary design",
+    "destination": "Rajasthan",
+    "category": "seasonal travel",
+    "text": "In hot periods, schedule outdoor forts and walks early, rest or choose indoor visits through the hottest hours, and resume later when conditions allow. Carry water and sun protection, watch for heat illness and reduce exertion. Follow local advisories; do not promise a safe temperature.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_accessibility",
+    "title": "Accessibility planning",
+    "destination": "Rajasthan",
+    "category": "accessibility",
+    "text": "Rajasthan heritage sites often include stairs, uneven paving, narrow passages, slopes and limited shade. Contact each site in advance about step-free routes, accessible toilets, seating, drop-off points, lifts and assistance. Build a lower-mobility alternative and avoid promising access based only on a map.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_family",
+    "title": "Family travel pacing",
+    "destination": "Rajasthan",
+    "category": "family travel",
+    "text": "For families, cluster nearby stops, include meal/restroom breaks and shade, and avoid overfilling the day. Confirm child ticket rules, car-seat availability, pool supervision and food ingredients with providers. Keep a simple backup plan for heat, tiredness or delays.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_solo",
+    "title": "Solo travel planning",
+    "destination": "Rajasthan",
+    "category": "safety",
+    "text": "Solo travellers should confirm accommodation arrival procedures, use traceable transport, share an itinerary with a trusted contact and keep valuables secure. For remote excursions, select reputable licensed operators and clarify the route and return time. Check current local guidance; avoid assumptions that any area is risk-free.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_photography",
+    "title": "Photography permissions",
+    "destination": "Rajasthan",
+    "category": "culture",
+    "text": "Photography rules vary by monument, museum, temple, dargah, performance and private property. Check posted rules before using cameras, tripods or drones; seek consent before photographing people, rituals or children. Drone use is subject to current laws and restricted zones.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_responsible_wildlife",
+    "title": "Responsible wildlife viewing",
+    "destination": "Rajasthan",
+    "category": "wildlife",
+    "text": "Choose authorized wildlife operators, follow the guide/forest staff, keep noise low, never feed or approach animals, and accept that sightings are uncertain. Do not request off-road pursuit or intrusive photography. Check official park rules, seasonal closures and permit conditions.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_responsible_water",
+    "title": "Lake and wetland etiquette",
+    "destination": "Rajasthan",
+    "category": "nature",
+    "text": "At lakes, wetlands and ghats, follow local access and boating rules, avoid litter and single-use plastic, and do not disturb birds or ritual activity. Boat operations, water levels and trail conditions change; confirm locally before travelling.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_craft_buying",
+    "title": "Buying crafts responsibly",
+    "destination": "Rajasthan",
+    "category": "culture",
+    "text": "When shopping for crafts, ask about materials, production location and care; compare workmanship and request a receipt for higher-value items. Support direct artisan channels when possible, but do not assume a market label proves provenance. Ask permission before photographing workshops.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_festival",
+    "title": "Fairs and festival planning",
+    "destination": "Rajasthan",
+    "category": "events",
+    "text": "Rajasthan fairs and festivals can change accommodation demand, traffic, access and local customs. Confirm dates with official organizers, book only after understanding cancellation terms and expect crowd controls. Treat sacred gatherings respectfully and ask before photographing participants.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_water",
+    "title": "Water and hydration",
+    "destination": "Rajasthan",
+    "category": "health and safety",
+    "text": "Use sealed or reliably treated drinking water if unsure of local supply, especially during hot outdoor days. Carry a refillable bottle where safe refilling is available, avoid dehydration and follow personal medical advice. This is general travel guidance, not medical advice.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_money",
+    "title": "Payments and bargaining",
+    "destination": "Rajasthan",
+    "category": "practical tips",
+    "text": "Carry more than one payment method and some small cash for places that do not accept cards, while keeping valuables secure. Confirm the total price and inclusions before transport, guiding or shopping; use a receipt for significant purchases.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_temple_etiquette",
+    "title": "Temple and dargah etiquette",
+    "destination": "Rajasthan",
+    "category": "culture",
+    "text": "Religious-site practices differ. Follow posted instructions, cover appropriately, remove footwear only where required, keep quiet during worship and ask before photography. Do not touch offerings or enter restricted spaces without permission; donations are voluntary unless official rules state otherwise.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_trip_duration",
+    "title": "Choosing a trip length",
+    "destination": "Rajasthan",
+    "category": "itinerary planning",
+    "text": "Choose fewer cities for a short trip and add a night when a destination requires a long transfer, safari reporting or a substantial fort visit. A map distance does not capture road time, rest stops or traffic. Keep arrival/departure days light and leave unallocated time.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_cost_components",
+    "title": "What a Rajasthan trip budget should include",
+    "destination": "Rajasthan",
+    "category": "budget planning",
+    "text": "A realistic trip budget includes intercity/local transport, accommodation, meals, attraction entry, guides, parking, water, tips, safari permits if applicable, taxes and contingency. Prices vary by season and booking lead time; compare total cost and verify current quotes rather than treating static figures as live rates.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_scam_awareness",
+    "title": "Practical booking checks",
+    "destination": "Rajasthan",
+    "category": "safety",
+    "text": "Before paying an operator, confirm business identity, exact service, pickup/drop-off, total inclusions, cancellation/refund conditions and a written receipt. Be cautious of pressure to decide immediately or claims guaranteeing wildlife sightings, special access or exceptionally low prices.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_language",
+    "title": "Language and communication",
+    "destination": "Rajasthan",
+    "category": "practical tips",
+    "text": "Hindi and regional languages are useful across Rajasthan; English is available in many tourist settings but not guaranteed. Save destination/address details offline, confirm the correct station or gate in writing, and use clear landmark-based pickup instructions.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_low_impact",
+    "title": "Low-impact travel",
+    "destination": "Rajasthan",
+    "category": "responsible travel",
+    "text": "Reduce waste, refill water safely, respect wildlife and protected areas, choose locally accountable guides and artisans, and ask permission before visiting homes or community spaces. Avoid cultural activities that rely on coercive animal interactions or intrusive photography.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  }
+]

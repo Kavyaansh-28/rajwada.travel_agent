@@ -1,0 +1,353 @@
+[
+  {
+    "id": "jaipur",
+    "title": "Jaipur — Pink City",
+    "destination": "Jaipur",
+    "category": "destination",
+    "text": "Jaipur is best for forts, palace architecture, bazaars, craft shopping and food. Group Amber Fort, Panna Meena ka Kund and Jaigarh in one northern day; group City Palace, Hawa Mahal, Jantar Mantar and Johari Bazaar in the old city. Start outdoor sites early in warm months.",
+    "source_url": "https://www.tourism.rajasthan.gov.in/jaipur.html",
+    "source_type": "official tourism reference"
+  },
+  {
+    "id": "udaipur",
+    "title": "Udaipur — City of Lakes",
+    "destination": "Udaipur",
+    "category": "destination",
+    "text": "Udaipur suits lakefront heritage, relaxed evenings and romantic trips. City Palace, Jagdish Temple and Lake Pichola are walkable as an old-city cluster. Fateh Sagar and Sajjangarh suit a separate sunset outing. Lake boat operations and timings must be checked locally.",
+    "source_url": "https://www.tourism.rajasthan.gov.in/udaipur.html",
+    "source_type": "official tourism reference"
+  },
+  {
+    "id": "jodhpur",
+    "title": "Jodhpur — Blue City",
+    "destination": "Jodhpur",
+    "category": "destination",
+    "text": "Jodhpur combines Mehrangarh Fort, Jaswant Thada, Toorji Ka Jhalra and blue-city lanes. Pair Mehrangarh and Jaswant Thada, then explore Clock Tower and Sardar Market later. Heat and uneven heritage lanes can affect accessibility.",
+    "source_url": "https://www.tourism.rajasthan.gov.in/jodhpur.html",
+    "source_type": "official tourism reference"
+  },
+  {
+    "id": "jaisalmer",
+    "title": "Jaisalmer — Desert Gateway",
+    "destination": "Jaisalmer",
+    "category": "destination",
+    "text": "Jaisalmer works best with one fort-and-havelis day and one desert day. Sam is busier and more tourism-oriented; Khuri is often a quieter alternative. Confirm camp conditions, inclusions, operator credentials and transport before booking; desert activities need sun protection and water.",
+    "source_url": "https://www.tourism.rajasthan.gov.in/jaisalmer.html",
+    "source_type": "official tourism reference"
+  },
+  {
+    "id": "pushkar",
+    "title": "Pushkar and Ajmer transport and destination guide",
+    "destination": "Pushkar",
+    "category": "destination",
+    "text": "Pushkar offers ghats, Brahma Temple, Savitri viewpoint and markets; Ajmer adds Ajmer Sharif and heritage stops. For transport, Rajasthan Tourism says Pushkar is connected by regular buses to Jaipur, Jodhpur and Ajmer. Pushkar Terminus is connected to Ajmer railway station, about 14 kilometres away. Sanganer Airport in Jaipur is listed as the nearest airport at 146 kilometres. Verify current bus stops, operators, schedules, fares and onward transfers before travel. At religious sites, dress modestly, remove footwear where required and ask before photographing people or ceremonies.",
+    "source_url": "https://www.tourism.rajasthan.gov.in/pushkar.html",
+    "source_type": "official tourism reference"
+  },
+  {
+    "id": "ranthambore",
+    "title": "Ranthambore",
+    "destination": "Ranthambore",
+    "category": "wildlife",
+    "text": "Ranthambore visits need buffer time for safari reporting and travel. Wildlife sightings cannot be guaranteed. Safari zones, permits, availability, fees and reporting times are time-sensitive and must be verified with official booking channels.",
+    "source_url": "https://forest.rajasthan.gov.in/",
+    "source_type": "official forest reference"
+  },
+  {
+    "id": "mount-abu",
+    "title": "Mount Abu",
+    "destination": "Mount Abu",
+    "category": "destination",
+    "text": "Mount Abu is Rajasthan's hill-station option, useful for cooler weather, Dilwara temples, viewpoints and Nakki Lake. Temple etiquette and any photography rules should be respected.",
+    "source_url": "https://www.tourism.rajasthan.gov.in/mount-abu.html",
+    "source_type": "official tourism reference"
+  },
+  {
+    "id": "bundi",
+    "title": "Bundi",
+    "destination": "Bundi",
+    "category": "destination",
+    "text": "Bundi is a quieter heritage option known for its palace, fort, stepwells and painted interiors. It can replace a more crowded city for travellers seeking a slower pace.",
+    "source_url": "https://www.tourism.rajasthan.gov.in/bundi.html",
+    "source_type": "official tourism reference"
+  },
+  {
+    "id": "guide_jaipur",
+    "title": "Jaipur destination and trip-planning guide",
+    "destination": "Jaipur",
+    "category": "destination",
+    "text": "Pink City heritage, hill forts, observatories, temples, gardens, craft districts, bazaars and food. Cluster Amer Fort, Jaigarh, Nahargarh and Panna Meena ka Kund as a northern excursion; keep the old-city palace, Hawa Mahal, Jantar Mantar and bazaars together. Allow time for traffic and walking. Notable places in the local index include: Amer Fort, Jaigarh Fort, Nahargarh Fort, Hawa Mahal, City Palace Jaipur, Jantar Mantar, Jal Mahal, Albert Hall Museum, Birla Mandir, Govind Dev Ji Temple, Galta Ji Temple, Gaitore Ki Chhatriyan, Panna Meena Ka Kund, Anokhi Museum, Jaipur Wax Museum, Nahargarh Biological Park, Sisodia Rani Garden, Vidyadhar Garden, Kanak Vrindavan, Central Park, Ram Niwas Garden, Jawahar Circle, Patrika Gate, Moti Dungri Ganesh Temple, Garh Ganesh Temple.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_jodhpur",
+    "title": "Jodhpur destination and trip-planning guide",
+    "destination": "Jodhpur",
+    "category": "destination",
+    "text": "Blue City architecture, Mehrangarh, Jaswant Thada, stepwell, old market lanes and Bishnoi/desert excursions. Pair nearby fort and cenotaph visits; set aside another block for Clock Tower and Sardar Market. Osian and village visits require separate transport planning. Notable places in the local index include: Mehrangarh Fort, Umaid Bhawan Palace Museum, Jaswant Thada, Mandore Gardens, Rao Jodha Desert Rock Park, Toorji Ka Jhalra, Ghanta Ghar, Sardar Market, Kaylana Lake, Balsamand Lake, Machia Biological Park, Mahamandir Temple, Chamunda Mata Temple, Phool Mahal, Rao Jodha Park, Masuria Hill Garden, Gulab Sagar, Ranisar Lake, Padamsar Lake, Bishnoi villages, Guda Bishnoi Lake, Osian temples, Khichan bird village.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_jaisalmer",
+    "title": "Jaisalmer destination and trip-planning guide",
+    "destination": "Jaisalmer",
+    "category": "destination",
+    "text": "Golden sandstone fort and havelis, Gadisar Lake, heritage sites and Thar desert experiences. Separate the fort-and-havelis circuit from a Sam or Khuri dunes excursion; decide whether an overnight camp suits your comfort needs. Confirm operator, inclusions, access and weather. Notable places in the local index include: Jaisalmer Fort, Patwon Ki Haveli, Salim Singh Ki Haveli, Nathmal Ki Haveli, Gadisar Lake, Bada Bagh, Vyas Chhatri, Kuldhara abandoned village, Khaba Fort, Amar Sagar Jain Temple, Lodurva Jain Temple, Tanot Mata Temple, Longewala War Memorial, Sam Sand Dunes, Khuri Sand Dunes, Desert National Park, Akal Wood Fossil Park, Thar Desert safari, camel safari, jeep safari, desert camping, stargazing, Lakhmana dunes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_udaipur",
+    "title": "Udaipur destination and trip-planning guide",
+    "destination": "Udaipur",
+    "category": "destination",
+    "text": "Lakeside palaces, ghats, temples, gardens, museums and Aravalli viewpoints. Group the City Palace, Jagdish Temple and nearby ghats; leave a separate window for Fateh Sagar or Sajjangarh. Boat services and hill access are time-sensitive. Notable places in the local index include: City Palace Udaipur, Lake Pichola, Jag Mandir, Lake Palace exterior views, Jagdish Temple, Saheliyon Ki Bari, Fateh Sagar Lake, Sajjangarh Monsoon Palace, Sajjangarh Biological Park, Bagore Ki Haveli, Shilpgram, Ahar Cenotaphs, Gulab Bagh, Vintage Car Museum, Ambrai Ghat, Gangaur Ghat, Doodh Talai, Karni Mata Ropeway, Badi Lake, Bahubali Hills, Neemach Mata Temple, Maharana Pratap Memorial, Moti Magri, Udai Sagar Lake, Jaisamand Lake.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_pushkar",
+    "title": "Pushkar destination and trip-planning guide",
+    "destination": "Pushkar",
+    "category": "destination",
+    "text": "Sacred lake and ghats, Brahma and other temples, bazaars, rose-growing areas and seasonal fair culture. Use modest dress, follow ghat etiquette and ask before photography. The nearby Ajmer circuit needs transport planning; fair dates and local restrictions vary. Notable places in the local index include: Pushkar Lake, Brahma Temple, Savitri Mata Temple, Gayatri Temple, Varaha Temple, Rangji Temple, Apteshwar Mahadev Temple, Pap Mochani Temple, Pushkar ghats, Rose farms, Pushkar Bazaar, desert camps, camel safari areas, Pushkar Fair grounds, Merta excursion, Kishangarh Dumping Yard, Kishangarh Marble Slurry Landscape, Phool Mahal Palace Kishangarh, Roopangarh Fort, Taragarh hills, Pushkar Savitri ropeway, Merta Meera Bai Temple, Kharnal Tejaji birthplace, Parbatsar, regional fairgrounds.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_ajmer",
+    "title": "Ajmer destination and trip-planning guide",
+    "destination": "Ajmer",
+    "category": "destination",
+    "text": "Dargah pilgrimage, historic mosques, lakes, forts and museums. Dress respectfully at religious places, follow local instructions and avoid photographing worshippers without consent. Combine with Pushkar only after checking road and onward transport plans. Notable places in the local index include: Ajmer Sharif Dargah, Adhai Din Ka Jhonpra, Ana Sagar Lake, Daulat Bagh, Taragarh Fort Ajmer, Akbari Fort and Museum, Soniji Ki Nasiyan, Nareli Jain Temple, Foy Sagar Lake, Mayo College architecture, Prithviraj Smarak, Savitri-style hill viewpoints near Ajmer.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_ranthambore",
+    "title": "Ranthambore destination and trip-planning guide",
+    "destination": "Ranthambore",
+    "category": "destination",
+    "text": "Wildlife and fort landscapes around Sawai Madhopur. Safari permits, zones, reporting times, vehicle type and access must be confirmed through official channels; sightings are never guaranteed. Avoid a tight connection on safari days. Notable places in the local index include: Ranthambore National Park, Ranthambore Fort, Padam Talao, Malik Talao, Raj Bagh Ruins, Jogi Mahal exterior area, Trinetra Ganesh Temple, Surwal Lake, Kachida Valley, Sawai Man Singh Sanctuary, Chambal safari areas near Palighat, Amareshwar Mahadev Temple, Chamatkar Jain Temple, local village experiences.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_bikaner",
+    "title": "Bikaner destination and trip-planning guide",
+    "destination": "Bikaner",
+    "category": "destination",
+    "text": "Junagarh Fort, old-city havelis, palace heritage, Deshnok pilgrimage, camel research heritage and regional food. Reserve time for the old city and treat Gajner or Raisar as separate excursions. Verify access and transport for outlying sites. Notable places in the local index include: Junagarh Fort, Lalgarh Palace, Laxmi Niwas Palace, Karni Mata Temple at Deshnok, National Research Centre on Camel, Rampuria Havelis, Gajner Palace, Gajner Wildlife Sanctuary, Prachina Museum, Bhandasar Jain Temple, Shiv Bari Temple, Devi Kund Sagar, Kodamdesar Bhairav Temple, Kolayat Lake, Shri Laxminath Temple, old city markets, Raisar dunes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_mount_abu",
+    "title": "Mount Abu destination and trip-planning guide",
+    "destination": "Mount Abu",
+    "category": "destination",
+    "text": "Rajasthan’s hill-station setting, Jain temple architecture, Nakki Lake, viewpoints, gardens and forest landscapes. Expect slopes and variable weather; check temple access and photography rules. Plan viewpoints around visibility and daylight. Notable places in the local index include: Dilwara Jain Temples, Nakki Lake, Guru Shikhar, Achalgarh Fort, Achaleshwar Mahadev Temple, Toad Rock, Sunset Point, Honeymoon Point, Peace Park, Trevor's Tank, Arbuda Devi Temple, Gaumukh Temple, Mount Abu Wildlife Sanctuary, Bailey's Walk, Honeymoon Point viewpoints.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_chittorgarh",
+    "title": "Chittorgarh destination and trip-planning guide",
+    "destination": "Chittorgarh",
+    "category": "destination",
+    "text": "A large hill-fort landscape with towers, palaces, temples and reservoirs. Allow a substantial visit with water, shade and comfortable footwear; account for distances between structures and verify local transport/access arrangements. Notable places in the local index include: Chittorgarh Fort, Vijay Stambh, Kirti Stambh, Rana Kumbha Palace, Rani Padmini Palace, Gaumukh Reservoir, Meera Temple, Kalika Mata Temple, Fateh Prakash Palace Museum, Sathis Deori temples, Sanwariyaji Temple, Bassi Wildlife Sanctuary, Menal Waterfall and temples, Sitamata Wildlife Sanctuary, Jakham Dam, Devgarh heritage areas, Gautameshwar Mahadev Temple, Menal archaeological complex, Bijolia temples, Mandalgarh Fort, Begun Fort, small historic stepwells and temples.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_kumbhalgarh",
+    "title": "Kumbhalgarh destination and trip-planning guide",
+    "destination": "Kumbhalgarh",
+    "category": "destination",
+    "text": "Hilltop fort, long defensive walls, Aravalli scenery, temples and wildlife landscapes. It is a deliberate excursion rather than a quick city stop. Check road conditions and site access; do not assume wildlife sightings. Notable places in the local index include: Kumbhalgarh Fort, Kumbhalgarh Wildlife Sanctuary, Badal Mahal, Neelkanth Mahadev Temple, Vedi Temple, Haldighati, Maharana Pratap Museum, Rajsamand Lake, Kankroli Dwarkadhish Temple, Charbhuja Temple, Nathdwara Shrinathji Temple, Ranakpur Jain Temple, Parshuram Mahadev Cave Temple, Muchhal Mahavir Temple, Ghanerao heritage village.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_bundi",
+    "title": "Bundi destination and trip-planning guide",
+    "destination": "Bundi",
+    "category": "destination",
+    "text": "Compact heritage town known for its fort-palace complex, painted rooms, stepwells, lakes and slower pace. Check which interiors are open and whether a guide is available. Stepwells may have uneven stairs and limited accessibility. Notable places in the local index include: Taragarh Fort Bundi, Bundi Palace, Chitrashala, Sukh Mahal, Raniji Ki Baori, Nawal Sagar, Jait Sagar, Dabhai Kund, Nagar Sagar Kund, 84 Pillared Cenotaph, Shikar Burj, Garh Palace, Keshoraipatan Temple, Ramgarh Vishdhari Tiger Reserve, Menal Waterfall.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_alwar",
+    "title": "Alwar destination and trip-planning guide",
+    "destination": "Alwar",
+    "category": "destination",
+    "text": "Fort, palace, lakes and access to Sariska, with additional heritage stops across the region. Separate town sightseeing from wildlife plans; park rules, safaris and animal sightings are variable and require official confirmation. Notable places in the local index include: Bala Quila, City Palace Alwar, Moosi Maharani Ki Chhatri, Siliserh Lake, Siliserh Lake Palace, Fateh Jung Gumbad, Vijay Mandir Palace exterior, Sariska Tiger Reserve, Pandupol Hanuman Temple, Neelkanth temples, Bhangarh Fort, Neemrana Fort Palace, Tijara Jain Temple, Tijara Fort Palace, Kesroli Hill Fort, Garbhaji Waterfall, Jaisamand Lake Alwar, Talvriksha, Garbhaji Falls.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_bharatpur",
+    "title": "Bharatpur destination and trip-planning guide",
+    "destination": "Bharatpur",
+    "category": "destination",
+    "text": "Keoladeo wetland birding alongside fort and palace heritage in the wider region. Bird activity is seasonal and sightings are not guaranteed. Check park entry, permitted transport, current water and trail conditions. Notable places in the local index include: Keoladeo National Park, Lohagarh Fort, Bharatpur Government Museum, Deeg Palace, Deeg water gardens and fountains, Ganga Mandir, Laxman Mandir, Band Baretha, Bayana Fort, Fatehpur Sikri excursion across the state border, birdwatching trails, rural wetlands.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_shekhawati",
+    "title": "Shekhawati destination and trip-planning guide",
+    "destination": "Shekhawati",
+    "category": "destination",
+    "text": "A dispersed circuit of painted havelis, merchant mansions, forts and heritage streets across towns such as Mandawa, Nawalgarh and Fatehpur. Private-property access, restoration and photography permission vary; allow driving time between towns. Notable places in the local index include: Mandawa Fort, Mandawa Havelis, Nawalgarh, Morarka Haveli, Podar Haveli Museum, Dundlod Fort, Jhunjhunu Rani Sati Temple, Fatehpur Shekhawati, Nadine Le Prince Cultural Centre, Ramgarh Shekhawati, Churu havelis, Sikar heritage streets, Alsisar Mahal, Mahansar, Mukundgarh Fort, Bissau, Lakshmangarh Fort, painted havelis and cenotaphs.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_ranakpur",
+    "title": "Ranakpur destination and trip-planning guide",
+    "destination": "Ranakpur",
+    "category": "destination",
+    "text": "Jain temple architecture, Aravalli foothills, Jawai landscapes and heritage villages. Confirm temple visitor hours, dress/photography rules and local access. Leopard tracking must use responsible, licensed operators and can never guarantee a sighting. Notable places in the local index include: Ranakpur Jain Temple, Jawai Leopard Conservation Reserve, Jawai Bandh, Kumbhalgarh approach villages, Om Banna Temple, Bangur Museum Pali, Parshuram Mahadev, Nimbo Ka Nath, Jadan Ashram, Falna, Sadri, Ghanerao, Nadol temples, Desuri landscapes, local Rabari settlements.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_barmer",
+    "title": "Barmer destination and trip-planning guide",
+    "destination": "Barmer",
+    "category": "destination",
+    "text": "Western desert scenery, temples, embroidery and textile traditions, salt landscapes and remote settlements. Distances are long; arrange reliable transport, daylight buffers, water and current access information for remote sites. Notable places in the local index include: Barmer Fort, Kiradu Temples, Nakoda Jain Temple, Devka Sun Temple ruins, Mahabar Sand Dunes, Barmer embroidery villages, Balotra textile areas, Thar Desert landscapes, Pachpadra Salt Lake, Siwana Fort, Jasol temples, Tilwara, Ramsar wetlands where accessible.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_nagaur",
+    "title": "Nagaur destination and trip-planning guide",
+    "destination": "Nagaur",
+    "category": "destination",
+    "text": "Fort and palace heritage, dargah and Jain learning sites, salt-lake landscapes and nearby historic towns. Combine stops only after checking distances and opening/access details; fair and event schedules change. Notable places in the local index include: Nagaur Fort, Ahhichatragarh Fort, Tarkeen Dargah, Ladnun Jain Vishva Bharati, Khimsar Fort, Khimsar Sand Dunes, Kuchaman Fort, Kuchaman Lake, Didwana Salt Lake, Makrana marble quarries, Meera Bai Temple Merta, Sambhar Salt Lake region.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_kota",
+    "title": "Kota destination and trip-planning guide",
+    "destination": "Kota",
+    "category": "destination",
+    "text": "Chambal river viewpoints, gardens, lakes, museums and south-east Rajasthan wildlife landscapes. Match outdoor plans to heat and local access rules; treat Mukundara and other protected areas as regulated, not guaranteed wildlife encounters. Notable places in the local index include: Garadia Mahadev viewpoint, Chambal Garden, Seven Wonders Park, Kota Barrage, Kishore Sagar Lake, Jagmandir Kota, Rao Madho Singh Museum, Godavari Dham, Mukundara Hills Tiger Reserve, Abheda Biological Park, Darrah wildlife landscapes, Kaithoon Kota Doria weaving village, Menal temples and waterfalls.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_jhalawar",
+    "title": "Jhalawar destination and trip-planning guide",
+    "destination": "Jhalawar",
+    "category": "destination",
+    "text": "Fort, palace, temple, archaeological and forested-hill landscapes in the south-east. This is better as part of a slower regional circuit; check site access, roads and seasonal conditions before committing. Notable places in the local index include: Gagron Fort, Chandrabhaga Temples, Jhalawar Government Museum, Bhawani Natyashala, Garh Palace Jhalawar, Kolvi Buddhist caves, Kakuni temples, Jhalrapatan, Sun Temple Jhalrapatan, Unhel Jain Temple, Chandkheri Adinath Temple, Dag temples, forested hill landscapes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_tonk",
+    "title": "Tonk destination and trip-planning guide",
+    "destination": "Tonk",
+    "category": "destination",
+    "text": "Old-city architecture, mosque and manuscript heritage, stepwells and Bisalpur reservoir landscapes. Respect active religious sites and verify access to collections and private interiors before visiting. Notable places in the local index include: Sunehri Kothi, Tonk old city, Arabic and Persian Research Institute, Jama Masjid Tonk, Bisalpur Dam, Bisalpur Reservoir, Hathi Bhata, Todaraisingh temples, Kakod Fort, old havelis, historic mosques.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_karauli",
+    "title": "Karauli destination and trip-planning guide",
+    "destination": "Karauli",
+    "category": "destination",
+    "text": "Palace-town heritage, temples, forts, wildlife sanctuary and Chambal ravine landscapes. Religious calendars and road conditions affect planning; confirm site access and use authorized operators for wildlife activities. Notable places in the local index include: Karauli City Palace, Madan Mohan Ji Temple, Kaila Devi Temple, Kaila Devi Wildlife Sanctuary, Timangarh Fort, Mandrayal Fort, Ramathra Fort, Shri Mahaveerji Jain Temple, Chambal ravines, local heritage villages.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_dungarpur",
+    "title": "Dungarpur destination and trip-planning guide",
+    "destination": "Dungarpur",
+    "category": "destination",
+    "text": "Palaces, lakes, temples and tribal cultural landscapes in southern Rajasthan. Take time for local context and permissions; build road buffers between dispersed sites and do not treat cultural communities as attractions without consent. Notable places in the local index include: Udai Bilas Palace, Juna Mahal, Gaib Sagar Lake, Beneshwar Dham, Deo Somnath Temple, Bhuvaneshwar Temple, Badal Mahal Dungarpur, Mahi Dam, Mahi Bajaj Sagar, Anand Sagar Lake, Tripura Sundari Temple, Arthuna temple complex, Talwara temples, Kagdi Pick-Up Weir, tribal cultural villages.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_jalore",
+    "title": "Jalore destination and trip-planning guide",
+    "destination": "Jalore",
+    "category": "destination",
+    "text": "Fort and temple heritage, hill landscapes and Jain sites across a less-visited western circuit. Check approach roads and temple etiquette; avoid packing multiple remote stops into a short day. Notable places in the local index include: Jalore Fort, Sundha Mata Temple, Bhinmal heritage area, Topekhana, Sayla landscapes, Jaswantpura hills, Sirohi heritage town, Mirpur Jain Temple, Vasantgarh archaeological site, Mount Abu approach routes, local Jain temples.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_hanumangarh",
+    "title": "Hanumangarh destination and trip-planning guide",
+    "destination": "Hanumangarh",
+    "category": "destination",
+    "text": "Harappan archaeological heritage, forts, temples and canal-country landscapes in northern Rajasthan. Check museum/site opening information and allow travel time between town and archaeological locations. Notable places in the local index include: Bhatner Fort, Kalibangan Archaeological Museum, Kalibangan Harappan site, Gogamedi Temple, Talwara Lake, Anupgarh Fort, Hindumalkot border area, Laila-Majnu tomb at Binjaur, Suratgarh heritage sites, rural canal landscapes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_dausa",
+    "title": "Dausa destination and trip-planning guide",
+    "destination": "Dausa",
+    "category": "destination",
+    "text": "Stepwell and temple heritage, rural sites and convenient connections east of Jaipur. Chand Baori/Abhaneri is a focused stop; verify site access and combine with other villages only with realistic road buffers. Notable places in the local index include: Chand Baori at Abhaneri, Harshat Mata Temple, Mehandipur Balaji Temple, Bhandarej, Bhandarej Baori, Jhajhirampura, Bandikui heritage areas, Dausa fort remains, rural stepwells and temple complexes.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_dholpur",
+    "title": "Dholpur destination and trip-planning guide",
+    "destination": "Dholpur",
+    "category": "destination",
+    "text": "Palace and fort heritage, temples, wetlands and Chambal ravine landscapes. Wildlife and river access are regulated and conditions vary; use official/local guidance and avoid unapproved boat or ravine excursions. Notable places in the local index include: Machkund, Dholpur Palace, Shergarh Fort, Talab-e-Shahi, Van Vihar Wildlife Sanctuary, Chambal National Chambal Sanctuary access points, Ramsagar Sanctuary, ravine landscapes, Machkund temples.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_baran",
+    "title": "Baran destination and trip-planning guide",
+    "destination": "Baran",
+    "category": "destination",
+    "text": "Forts, archaeological sites, forest landscapes and local tribal heritage in south-east Rajasthan. Remote travel needs current route and access checks; seek consent and locally appropriate guidance for community visits. Notable places in the local index include: Shergarh Fort, Shahabad Fort, Kakoni temples, Sitabari, Kapildhara, Ramgarh crater region, Shergarh Wildlife Sanctuary, Shahabad forests, Bilasgarh archaeological ruins, local tribal villages.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_bhilwara_and_shahpura",
+    "title": "Bhilwara destination and trip-planning guide",
+    "destination": "Bhilwara",
+    "category": "destination",
+    "text": "Bhilwara is a Rajasthan heritage and landscape stop. Its places include Harni Mahadev Temple, Kyara Ke Balaji, Menal Waterfall, Mandalgarh Fort, Bijolia temples, Asind temples, Triveni Sangam near Menal region, Shahpura Ramdwara, rural textile heritage and traditional craft centres. Choose a realistic cluster, allow transfer time, and verify current access, opening status and local rules. Notable places in the local index include: Harni Mahadev Temple, Kyara Ke Balaji, Menal Waterfall, Mandalgarh Fort, Bijolia temples, Asind temples, Triveni Sangam near Menal region, Shahpura Ramdwara, rural textile heritage and traditional craft centres.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_other_destinations_and_offbeat_places",
+    "title": "Rajasthan destination and trip-planning guide",
+    "destination": "Rajasthan",
+    "category": "destination",
+    "text": "Rajasthan is a Rajasthan heritage and landscape stop. Its places include Sambhar Salt Lake, Tal Chhapar Blackbuck Sanctuary, Sorsan Grasslands, Desert National Park, Gajner Wildlife Sanctuary, Bassi Wildlife Sanctuary, Sitamata Wildlife Sanctuary, Todgarh-Raoli Wildlife Sanctuary, Shergarh Sanctuary, Van Vihar Sanctuary, Ramgarh Vishdhari Tiger Reserve, Mukundara Hills Tiger Reserve. Choose a realistic cluster, allow transfer time, and verify current access, opening status and local rules. Notable places in the local index include: Sambhar Salt Lake, Tal Chhapar Blackbuck Sanctuary, Sorsan Grasslands, Desert National Park, Gajner Wildlife Sanctuary, Bassi Wildlife Sanctuary, Sitamata Wildlife Sanctuary, Todgarh-Raoli Wildlife Sanctuary, Shergarh Sanctuary, Van Vihar Sanctuary, Ramgarh Vishdhari Tiger Reserve, Mukundara Hills Tiger Reserve, Jawai leopard landscapes, Osian desert temples, Khimsar dunes, Chand Baori, rural Bishnoi settlements, tribal villages of southern Rajasthan, historic stepwells, forgotten havelis and local heritage walks.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "guide_major_temples_and_pilgrimage_destinations",
+    "title": "Rajasthan destination and trip-planning guide",
+    "destination": "Rajasthan",
+    "category": "destination",
+    "text": "Rajasthan is a Rajasthan heritage and landscape stop. Its places include Brahma Temple Pushkar, Ajmer Sharif Dargah, Nathdwara Shrinathji Temple, Eklingji Temple, Ranakpur Jain Temple, Dilwara Jain Temples, Karni Mata Temple Deshnok, Kaila Devi Temple, Mehandipur Balaji, Salasar Balaji, Khatu Shyam Ji, Govind Dev Ji Jaipur. Choose a realistic cluster, allow transfer time, and verify current access, opening status and local rules. Notable places in the local index include: Brahma Temple Pushkar, Ajmer Sharif Dargah, Nathdwara Shrinathji Temple, Eklingji Temple, Ranakpur Jain Temple, Dilwara Jain Temples, Karni Mata Temple Deshnok, Kaila Devi Temple, Mehandipur Balaji, Salasar Balaji, Khatu Shyam Ji, Govind Dev Ji Jaipur, Galta Ji, Birla Mandir Jaipur, Trinetra Ganesh Ranthambore, Tanot Mata, Ramdevra Temple, Goga Ji Temple Gogamedi, Shri Mahaveerji, Soniji Ki Nasiyan, Tripura Sundari Temple, Charbhuja Temple, Sanwariyaji Temple, Osian temples, Kiradu temples.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  }
+]

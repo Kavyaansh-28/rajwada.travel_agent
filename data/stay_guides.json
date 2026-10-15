@@ -1,0 +1,101 @@
+[
+  {
+    "id": "stay_budget",
+    "title": "Choosing stays — budget",
+    "destination": "Rajasthan",
+    "category": "accommodation",
+    "text": "For a budget trip, target simple guesthouses, hostels or well-reviewed budget hotels near a transit-friendly area. Compare total price, cancellation terms, room cooling/heating, distance from the station and recent guest feedback. Do not assume amenities from a price tier.",
+    "source_url": "",
+    "source_type": "planning guidance"
+  },
+  {
+    "id": "stay_balanced",
+    "title": "Choosing stays — balanced",
+    "destination": "Rajasthan",
+    "category": "accommodation",
+    "text": "For a balanced trip, choose a verified mid-range hotel or heritage-style stay close to the planned neighbourhood. In Jaipur, old city versus Amber has different logistics; in Udaipur, old city versus Fateh Sagar changes walking and evening access. Check current reviews and pickup logistics before booking.",
+    "source_url": "",
+    "source_type": "planning guidance"
+  },
+  {
+    "id": "stay_premium",
+    "title": "Choosing stays — premium",
+    "destination": "Rajasthan",
+    "category": "accommodation",
+    "text": "For premium trips, compare heritage hotels, palace stays and lake/desert properties by location, transfer time, inclusions and cancellation terms—not marketing labels alone. Desert properties need special scrutiny for transport, camp standards and included activities.",
+    "source_url": "",
+    "source_type": "planning guidance"
+  },
+  {
+    "id": "stay_wildlife",
+    "title": "Choosing stays for wildlife",
+    "destination": "Ranthambore",
+    "category": "accommodation",
+    "text": "For Ranthambore, select a stay only after a safari is actually booked or its reporting point is known. Confirm whether transfers are included and leave time for the safari check-in process.",
+    "source_url": "https://forest.rajasthan.gov.in/",
+    "source_type": "official forest reference"
+  },
+  {
+    "id": "stay_heritage",
+    "title": "Heritage hotels and havelis",
+    "destination": "Rajasthan",
+    "category": "accommodation",
+    "text": "Heritage properties range from restored mansions to modern hotels using heritage styling. Ask about original features, room location, accessibility, lift/stairs, noise, heating/cooling, meal inclusions and current cancellation terms; verify identity and total price directly.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "stay_location",
+    "title": "Choosing the right neighbourhood",
+    "destination": "Rajasthan",
+    "category": "accommodation",
+    "text": "Choose a lodging area based on your daily route, station/airport access, evening plans and mobility needs. Jaipur’s old city and outskirts have different traffic patterns; Udaipur’s lakeside/old-city and outer areas differ in slopes and transfer times. Check actual pickup logistics, not just map distance.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "stay_booking",
+    "title": "Accommodation booking checklist",
+    "destination": "Rajasthan",
+    "category": "accommodation",
+    "text": "Before booking, confirm the exact address, taxes and fees, cancellation/refund policy, check-in deadline, room occupancy, bed configuration, accessibility, hot water, cooling/heating, payment method and contact number. Save the confirmation offline and reconfirm late arrivals.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "stay_desert",
+    "title": "Desert camp comfort and inclusions",
+    "destination": "Jaisalmer",
+    "category": "accommodation",
+    "text": "Ask a desert camp to specify location, transfer, tent/bathroom type, heating, meals, performance, water, accessibility and cancellation terms. Night temperatures and services depend on season and property. Confirm all inclusions and responsible animal-welfare practices directly.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "stay_solo",
+    "title": "Hostels and solo stays",
+    "destination": "Rajasthan",
+    "category": "accommodation",
+    "text": "For hostels, compare room type, locker, quiet hours, mixed/dedicated dorm arrangements, bathroom access, security, guest policy and late check-in. Confirm the exact current location and transit options. A listing or name does not verify safety or availability.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "stay_family",
+    "title": "Family accommodation needs",
+    "destination": "Rajasthan",
+    "category": "accommodation",
+    "text": "Families may want adjoining beds/rooms, lift or ground-floor access, child-suitable food, secure windows, quiet hours and reliable transport. Confirm occupancy and any child policies with the property; do not infer these from photographs.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "stay_accessibility",
+    "title": "Accessible accommodation checklist",
+    "destination": "Rajasthan",
+    "category": "accessibility",
+    "text": "Ask the property about step-free entrance, lift dimensions, accessible bathroom, grab bars, bed height, path surface, parking/drop-off and emergency support. Request photos or written confirmation for your specific needs; “accessible” is not a standardized guarantee.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  }
+]

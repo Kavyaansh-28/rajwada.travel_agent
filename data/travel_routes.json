@@ -1,0 +1,209 @@
+[
+  {
+    "id": "route_j_u",
+    "title": "Jaipur to Udaipur",
+    "destination": "Jaipur",
+    "category": "route",
+    "text": "Jaipur and Udaipur are a common multi-city pairing. For planning, treat this as a substantial intercity transfer and reserve most of a day unless a verified flight or rail schedule supports another plan.",
+    "source_url": "",
+    "source_type": "planning estimate"
+  },
+  {
+    "id": "route_u_jd",
+    "title": "Udaipur to Jodhpur",
+    "destination": "Udaipur",
+    "category": "route",
+    "text": "Udaipur to Jodhpur is a substantial road or rail transfer. Keep arrival evening light and verify current transport schedules before booking.",
+    "source_url": "",
+    "source_type": "planning estimate"
+  },
+  {
+    "id": "route_jd_js",
+    "title": "Jodhpur to Jaisalmer",
+    "destination": "Jodhpur",
+    "category": "route",
+    "text": "Jodhpur to Jaisalmer is a long intercity transfer. Avoid scheduling a desert safari immediately after arrival without adequate buffer.",
+    "source_url": "",
+    "source_type": "planning estimate"
+  },
+  {
+    "id": "route_guide__aipur_jmer_ushkar",
+    "title": "Jaipur to Ajmer to Pushkar route planning",
+    "destination": "Jaipur",
+    "category": "route",
+    "text": "Jaipur → Ajmer → Pushkar is a coherent north-central heritage and pilgrimage pairing. Treat Pushkar as a separate stop from Ajmer rather than assuming the two are one walkable destination. Verify current intercity and local transport.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__aipur_haratpur_ausa",
+    "title": "Jaipur to Bharatpur to Dausa route planning",
+    "destination": "Jaipur",
+    "category": "route",
+    "text": "Jaipur → Dausa/Abhaneri → Bharatpur can combine stepwell heritage and wetland/nature interests. Check opening/access and daylight; do not add every detour to a single transfer day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__aipur_lwar_ariska",
+    "title": "Jaipur to Alwar to Sariska route planning",
+    "destination": "Jaipur",
+    "category": "route",
+    "text": "Jaipur → Alwar → Sariska suits a heritage-and-wildlife theme. Keep safari bookings and town sightseeing separate, confirm official permits and reporting requirements, and avoid planning a tight arrival-to-safari connection.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__aipur_anthambore_awai_adhopur",
+    "title": "Jaipur to Ranthambore to Sawai Madhopur route planning",
+    "destination": "Jaipur",
+    "category": "route",
+    "text": "Jaipur ↔ Sawai Madhopur is a common Ranthambore gateway route. Confirm train/road options for travel dates and allow a buffer before the safari report time; sightings are not guaranteed.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__aipur_hekhawati_andawa",
+    "title": "Jaipur to Shekhawati to Mandawa route planning",
+    "destination": "Jaipur",
+    "category": "route",
+    "text": "Jaipur → Shekhawati (Mandawa/Nawalgarh/Fatehpur) is best as an overnight or slow heritage circuit because havelis are spread across towns. Confirm private-property access and driving time.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__aipur_ikaner_andawa",
+    "title": "Jaipur to Bikaner to Mandawa route planning",
+    "destination": "Jaipur",
+    "category": "route",
+    "text": "Jaipur → Shekhawati → Bikaner can link painted havelis and desert heritage. Break the journey realistically and check road conditions and daylight.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__odhpur_sian_aisalmer",
+    "title": "Jodhpur to Osian to Jaisalmer route planning",
+    "destination": "Jodhpur",
+    "category": "route",
+    "text": "Jodhpur → Osian → Jaisalmer can connect temple heritage with desert destinations. Verify site access and camp location; do not assume the excursion and transfer fit the same day.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__odhpur_ishnoi_villages_aisalmer",
+    "title": "Jodhpur to Bishnoi villages to Jaisalmer route planning",
+    "destination": "Jodhpur",
+    "category": "route",
+    "text": "Jodhpur and Bishnoi-area visits can add village and landscape context to a desert circuit. Use consent-based local hosts and confirm what is genuinely open to visitors.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__odhpur_ali_anakpur",
+    "title": "Jodhpur to Pali to Ranakpur route planning",
+    "destination": "Jodhpur",
+    "category": "route",
+    "text": "Jodhpur → Pali/Sadri → Ranakpur is a heritage route through western Aravalli foothills. Check temple visitor rules and avoid overloading the day with multiple remote sites.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__daipur_anakpur_umbhalgarh",
+    "title": "Udaipur to Ranakpur to Kumbhalgarh route planning",
+    "destination": "Udaipur",
+    "category": "route",
+    "text": "Udaipur → Ranakpur → Kumbhalgarh links temple and fort landscapes. These are distinct hill-region stops; plan road buffers and consider an overnight rather than rushing both.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__daipur_athdwara_ajsamand",
+    "title": "Udaipur to Nathdwara to Rajsamand route planning",
+    "destination": "Udaipur",
+    "category": "route",
+    "text": "Udaipur → Nathdwara → Rajsamand suits a temple and lake-heritage day. Darshan procedures and temple access are time-sensitive; check local guidance.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__daipur_hittorgarh_undi",
+    "title": "Udaipur to Chittorgarh to Bundi route planning",
+    "destination": "Udaipur",
+    "category": "route",
+    "text": "Udaipur → Chittorgarh → Bundi can make a south-to-east heritage progression. Reserve substantial time for Chittorgarh Fort and check onward transport before fixing the next stop.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__daipur_ungarpur_answara",
+    "title": "Udaipur to Dungarpur to Banswara route planning",
+    "destination": "Udaipur",
+    "category": "route",
+    "text": "Udaipur → Dungarpur → Banswara is a slower southern Rajasthan circuit with palace, lake and cultural landscapes. Plan around road time, local access and respectful community engagement.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__ota_undi_halawar",
+    "title": "Kota to Bundi to Jhalawar route planning",
+    "destination": "Kota",
+    "category": "route",
+    "text": "Kota → Bundi → Jhalawar can connect stepwells, fort-palace heritage and south-east landscapes. Check each site’s access and season; avoid assuming waterfalls or protected areas are always accessible.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__lwar_haratpur_holpur",
+    "title": "Alwar to Bharatpur to Dholpur route planning",
+    "destination": "Alwar",
+    "category": "route",
+    "text": "Alwar → Bharatpur → Dholpur can combine forts, wetlands and Chambal-region landscapes. Wildlife activities require official/local access confirmation and cannot guarantee sightings.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__jmer_agaur_ikaner",
+    "title": "Ajmer to Nagaur to Bikaner route planning",
+    "destination": "Ajmer",
+    "category": "route",
+    "text": "Ajmer → Nagaur → Bikaner is a longer desert-heritage progression. Confirm current transport and realistic overnight stops; do not rely on generic travel-time estimates.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__armer_aisalmer_odhpur",
+    "title": "Barmer to Jaisalmer to Jodhpur route planning",
+    "destination": "Barmer",
+    "category": "route",
+    "text": "Barmer → Jaisalmer → Jodhpur is a western desert circuit with long road legs. Check fuel/services, daylight, weather and remote-site access; plan flexible overnight stops.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__ount_bu_irohi_alore",
+    "title": "Mount Abu to Sirohi to Jalore route planning",
+    "destination": "Mount Abu",
+    "category": "route",
+    "text": "Mount Abu → Sirohi → Jalore combines hill, temple and fort heritage. Weather and hill-road conditions can affect the route; verify locally.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__aipur_onk_undi",
+    "title": "Jaipur to Tonk to Bundi route planning",
+    "destination": "Jaipur",
+    "category": "route",
+    "text": "Jaipur → Tonk → Bundi is an alternative heritage route south-east. Treat Tonk as a purposeful stop, verify access to collections and allow time for the onward journey.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  },
+  {
+    "id": "route_guide__ikaner_agaur_odhpur",
+    "title": "Bikaner to Nagaur to Jodhpur route planning",
+    "destination": "Bikaner",
+    "category": "route",
+    "text": "Bikaner → Nagaur → Jodhpur connects desert heritage and historic towns. Check event/fair dates and current road or rail options before choosing the sequence.",
+    "source_url": "",
+    "source_type": "curated Rajasthan planning guidance"
+  }
+]
